@@ -26,4 +26,4 @@ for(let i = 0; i<1600; i += 100 ){
     result.push(chars)
 }
 
-fs.writeFileSync('./chars.json',JSON.stringify(result.flat()))
+// fs.writeFileSync('./marvelChars.json',JSON.stringify(result.flat()))

@@ -52,4 +52,4 @@ const sprites = charsHtmls.map((charSiteResponse) => {
   };
 });
 
-fs.writeFileSync('./src/utils/json-out/sprites.json', JSON.stringify(sprites));
+// fs.writeFileSync('./src/utils/json-out/sprites.json', JSON.stringify(sprites));

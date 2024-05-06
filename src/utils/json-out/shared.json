@@ -1,0 +1,1246 @@
+[
+  {
+    "id": 1009148,
+    "name": "Absorbing Man",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/5269678709fb7.jpg",
+    "sprites": [
+      {
+        "title": "Absorbing Man",
+        "src": "http://scrollboss.illmosis.net/comicedits/absorbingman-fgtsze_classic_normal_stand1.png"
+      },
+      {
+        "title": "Absorbing Man",
+        "src": "http://scrollboss.illmosis.net/comicedits/absorbingman-fgtsze_classic_bluesteel_stand1.png"
+      },
+      {
+        "title": "Absorbing Man",
+        "src": "http://scrollboss.illmosis.net/comicedits/absorbingman-capfgt_stand2001.png"
+      }
+    ]
+  },
+  {
+    "id": 1009165,
+    "name": "Avengers",
+    "description": "Earth's Mightiest Heroes joined forces to take on threats that were too big for any one hero to tackle. With a roster that has included Captain America, Iron Man, Ant-Man, Hulk, Thor, Wasp and dozens more over the years, the Avengers have come to be regarded as Earth's No. 1 team.",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/5102c774ebae7.jpg",
+    "sprites": [
+      {
+        "title": "the Avengers: 2021, Avengers #1",
+        "src": "http://scrollboss.illmosis.net/comicedits/avengers-fgtsze_issue1team_v1.png"
+      },
+      {
+        "title": "the Avengers: 2001 (base: all from Capcom games) Founding five members",
+        "src": "http://scrollboss.illmosis.net/comicedits/spritegroup_avengers_team1.gif"
+      }
+    ]
+  },
+  {
+    "id": 1009172,
+    "name": "Batroc the Leaper",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4ce59eb840da5.gif",
+    "sprites": [
+      {
+        "title": "Batroc the Leaper: 2021, classic, stance 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/batroc-fgtsze_classic_stance1.png"
+      },
+      {
+        "title": "Batroc the Leaper: (base: Cyclops)",
+        "src": "http://scrollboss.illmosis.net/comicedits/sprite_batroc_stand.png"
+      }
+    ]
+  },
+  {
+    "id": 1009175,
+    "name": "Beast",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/511a79a0451a3.jpg",
+    "sprites": [
+      {
+        "title": "charname: 2018",
+        "src": "http://scrollboss.illmosis.net/comicedits/beast-fgtsze_90s_crouch1.png"
+      },
+      {
+        "title": "Beast: (bases: Blanka, Zangief)",
+        "src": "http://scrollboss.illmosis.net/comicedits/beast_xmen1lee.png"
+      }
+    ]
+  },
+  {
+    "id": 1009185,
+    "name": "Black Cat",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/526952357d91c.jpg",
+    "sprites": [
+      {
+        "title": "Black Cat",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackcat-marvel-fgtsze_classic_fgtstance-sm91.png"
+      }
+    ]
+  },
+  {
+    "id": 1009187,
+    "name": "Black Panther",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5261a80a67e7d.jpg",
+    "sprites": [
+      {
+        "title": "Black Panther",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther-fgtsze_classic-cape_fgtstand.png"
+      },
+      {
+        "title": "Black Panther: 2018",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther-fgtsze_classic-cape_calmstand1.png"
+      },
+      {
+        "title": "Black Panther",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther-fgtsze_classic-nocape_fgtstand.png"
+      },
+      {
+        "title": "Black Panther: 2018",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther-fgtsze_classic-nocape_calmstand1.png"
+      },
+      {
+        "title": "Black Panther",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther-fgtsze_90s_fgtstand.png"
+      },
+      {
+        "title": "Black Panther: 2018",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther-fgtsze_90s_calmstand1.png"
+      },
+      {
+        "title": "Black Panther",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther_classiccape_stand.png"
+      },
+      {
+        "title": "Black Panther",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther_classicnocape_stand.png"
+      },
+      {
+        "title": "Black Panther",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther_classicnocapecowl_stand.png"
+      },
+      {
+        "title": "Black Panther",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther_priest-era-main_stand.png"
+      },
+      {
+        "title": "Black Panther",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther-capbased_lpunch.gif"
+      },
+      {
+        "title": "Black Panther",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther-capbased_maskon.gif"
+      }
+    ]
+  },
+  {
+    "id": 1009189,
+    "name": "Black Widow",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/50fecad1f395b.jpg",
+    "sprites": [
+      {
+        "title": "Black Widow: 2015, adjusted 2020, from scratch",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow-fgtsze_classic_wintaunt-stingup1-2020.png"
+      },
+      {
+        "title": "Black Widow: 2021 from scratch, remake of 2001 sprite edit fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow-fgtsze_classic_fightstance-2001redone.png"
+      },
+      {
+        "title": "Black Widow: 2015 from scratch",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow-fgtsze_classic-blkgold_wintaunt-stingup1.png"
+      },
+      {
+        "title": "Black Widow: 2015 from scratch",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow-fgtsze_classic-bluegold_wintaunt-stingup1.png"
+      },
+      {
+        "title": "Black Widow: 2015 from scratch",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow-fgtsze_classic-blksilv_wintaunt-stingup1.png"
+      },
+      {
+        "title": "Black Widow: 2015 from scratch, Scarlett Johannson IM2 low pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow-fgtsze_classic_scarjoim2lowpose.png"
+      },
+      {
+        "title": "Black Widow: 2007 from scratch, Bowen Statue pose (from scratch)",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow_hairblowtaunt.png"
+      },
+      {
+        "title": "Black Widow",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow-psybased_2001stand.gif"
+      },
+      {
+        "title": "Black Widow",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow-psybased_2004stand.gif"
+      }
+    ]
+  },
+  {
+    "id": 1010371,
+    "name": "Boomerang",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/4c00390504a3b.jpg",
+    "sprites": [
+      {
+        "title": "Boomerang: (2014) 80s",
+        "src": "http://scrollboss.illmosis.net/comicedits/boomerang-fgtsze_80s_fstand.png"
+      },
+      {
+        "title": "Boomerang: 2014) Uncanny X-Men (NES)",
+        "src": "http://scrollboss.illmosis.net/comicedits/boomerang-fgtsze_NES_fstand.png"
+      }
+    ]
+  },
+  {
+    "id": 1009220,
+    "name": "Captain America",
+    "description": "Vowing to serve his country any way he could, young Steve Rogers took the super soldier serum to become America's one-man army. Fighting for the red, white and blue for over 60 years, Captain America is the living, breathing symbol of freedom and liberty.",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/537ba56d31087.jpg",
+    "sprites": [
+      {
+        "title": "Captain America: 2017, updated 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/captamerica-fgtsze_classic_stand1-lshoulderf-shieldleft-lookleft.png"
+      },
+      {
+        "title": "Captain America: 2017, updated 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/captamerica-fgtsze_classic_wintaunt-avengersv1i16cover.png"
+      },
+      {
+        "title": "Captain America: 2017, updated 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/captamerica-fgtsze_classic_wintaunt-avengersv1i16cover_wordballoon.png"
+      },
+      {
+        "title": "Captain America: 2017, 2012 MSH Capcom edit, pose based on Avengers #16 cover by Jack Kirby",
+        "src": "http://scrollboss.illmosis.net/comicedits/captam-capfgt_avengers16cover.png"
+      },
+      {
+        "title": "Captain America: 2017, 2012 MSH Capcom edit, pose based on Avengers #16 cover by Jack Kirby",
+        "src": "http://scrollboss.illmosis.net/comicedits/captam-capfgt_avengers16cover.png"
+      }
+    ]
+  },
+  {
+    "id": 1009243,
+    "name": "Colossus",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/51127cf4b996f.jpg",
+    "sprites": [
+      {
+        "title": "Colossus: 2017, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/colossus-fgtsze_classic_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Colossus: (base: Colossus) NES X-Men",
+        "src": "http://scrollboss.illmosis.net/comicedits/colossus-capfgt_nes_calmwin.png"
+      }
+    ]
+  },
+  {
+    "id": 1009252,
+    "name": "Crossbones",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4c00405a403c0.jpg",
+    "sprites": [
+      {
+        "title": "Crossbones: 2021, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/crossbones-fgtsze_classic-brn_knifestance1.png"
+      },
+      {
+        "title": "Crossbones: 2021, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/crossbones-fgtsze_classic-grn_knifestance1.png"
+      },
+      {
+        "title": "Crossbones: (base: ?)",
+        "src": "http://scrollboss.illmosis.net/comicedits/crossbones_brngear_stand.png"
+      },
+      {
+        "title": "Crossbones: (base: ?)",
+        "src": "http://scrollboss.illmosis.net/comicedits/crossbones_grngear_stand.png"
+      }
+    ]
+  },
+  {
+    "id": 1009257,
+    "name": "Cyclops",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/526547e2d90ad.jpg",
+    "sprites": [
+      {
+        "title": "Cyclops: 2017, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/cyclops-fgtsze_classic_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Cyclops: (base: Cyclops)",
+        "src": "http://scrollboss.illmosis.net/comicedits/cyclops_v1_introstand-yelboots.png"
+      },
+      {
+        "title": "Cyclops: (base: Cyclops)",
+        "src": "http://scrollboss.illmosis.net/comicedits/cyclops_v1_introstand-ybboots.png"
+      },
+      {
+        "title": "Cyclops: (base: Cyclops) Jim Lee X-Men #1 tribute",
+        "src": "http://scrollboss.illmosis.net/comicedits/cyclops-capfgt_xmen1lee.png"
+      }
+    ]
+  },
+  {
+    "id": 1009262,
+    "name": "Daredevil",
+    "description": "Abandoned by his mother, Matt Murdock was raised by his father, boxer \"Battling Jack\" Murdock, in Hell's Kitchen. Realizing that rules were needed to prevent people from behaving badly, young Matt decided to study law; however, when he saved a man from an oncoming truck, it spilled a radioactive cargo that rendered Matt blind while enhancing his remaining senses. Under the harsh tutelage of blind martial arts master Stick, Matt mastered his heightened senses and became a formidable fighter.",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/50/50febb79985ee.jpg",
+    "sprites": [
+      {
+        "title": "Daredevil: 2024",
+        "src": "http://scrollboss.illmosis.net/comicedits/daredevil-fgtsze_classic_calmstand-headforward-w1strap.png"
+      },
+      {
+        "title": "Daredevil: 2024",
+        "src": "http://scrollboss.illmosis.net/comicedits/daredevil-fgtsze_classic_calmstand-headforward-w2.png"
+      },
+      {
+        "title": "Daredevil: 2024",
+        "src": "http://scrollboss.illmosis.net/comicedits/daredevil-fgtsze_classic_ready-emptyhand.png"
+      },
+      {
+        "title": "Daredevil: 2024",
+        "src": "http://scrollboss.illmosis.net/comicedits/daredevil-fgtsze_classic_ready-w1strap.png"
+      },
+      {
+        "title": "Daredevil: 2018, fight stance 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/daredevil-fgtsze_red_stance1-2sticks.png"
+      },
+      {
+        "title": "Daredevil: 2018, fight stance 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/daredevil-fgtsze_red_stance1-1club.png"
+      }
+    ]
+  },
+  {
+    "id": 1009267,
+    "name": "Dazzler",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4fe364b0a2177.jpg",
+    "sprites": [
+      {
+        "title": "Dazzler: 2016, Konami arcade fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/dazzler-fgtsze_80s90s_m80s_konamiarcadestance.png"
+      },
+      {
+        "title": "Dazzler: 2016, Konami arcade fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/dazzler-fgtsze_potx_konamiarcadestance.png"
+      }
+    ]
+  },
+  {
+    "id": 1009268,
+    "name": "Deadpool",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/5261a86cacb99.jpg",
+    "sprites": [
+      {
+        "title": "Deadpool: 2017, MvC3 taunt",
+        "src": "http://scrollboss.illmosis.net/comicedits/deadpool-fgtsze_mvc3_taunt-mvc3.png"
+      },
+      {
+        "title": "Deadpool: 2017, MvC3 taunt",
+        "src": "http://scrollboss.illmosis.net/comicedits/deadpool-fgtsze_mvc3_taunt-mvc3-withballoon.png"
+      },
+      {
+        "title": "Deadpool: 2017, MvC3 taunt",
+        "src": "http://scrollboss.illmosis.net/comicedits/deadpool-fgtsze_mvc3_taunt-mvc3-wordballoon.png"
+      },
+      {
+        "title": "Deadpool: (base: Cyclops) Dan Hibiki imitation",
+        "src": "http://scrollboss.illmosis.net/comicedits/deadpool_dantastic.png"
+      }
+    ]
+  },
+  {
+    "id": 1009281,
+    "name": "Doctor Doom",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/53176bb096d17.jpg",
+    "sprites": [
+      {
+        "title": "Doctor Doom",
+        "src": "http://scrollboss.illmosis.net/comicedits/drdoom-fgtsze_sw84_fgtstance.png"
+      },
+      {
+        "title": "Doctor Doom",
+        "src": "http://scrollboss.illmosis.net/comicedits/doctordoom-capfgt_edit_teleporttest.gif"
+      }
+    ]
+  },
+  {
+    "id": 1009306,
+    "name": "Firestar",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/03/526032b8247e8.jpg",
+    "sprites": [
+      {
+        "title": "Firestar: 2020-2021, classic, hover",
+        "src": "http://scrollboss.illmosis.net/comicedits/firestar-fgtsze_classic_hover1.png"
+      },
+      {
+        "title": "Firestar: (base: Storm)",
+        "src": "http://scrollboss.illmosis.net/comicedits/firestar_hover1.png"
+      }
+    ]
+  },
+  {
+    "id": 1009328,
+    "name": "Grim Reaper",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4c003ee8885e4.jpg",
+    "sprites": [
+      {
+        "title": "2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/grimreaper-fgtszet_classic_caatapose1.png"
+      },
+      {
+        "title": "Grim Reaper: 2011 (base: Cyclops)",
+        "src": "http://scrollboss.illmosis.net/comicedits/grimreaper-marvel-capfgt_stand-caatapose_faceleft.png"
+      }
+    ]
+  },
+  {
+    "id": 1010743,
+    "name": "Groot",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/526033c8b474a.jpg",
+    "sprites": [
+      {
+        "title": "Groot: after Tales to Astonish 13, page 1 by Jack Kirby",
+        "src": "http://scrollboss.illmosis.net/comicedits/groot-fgtsze_bigbare_tta13p1_iamgroot-faceleft.png"
+      },
+      {
+        "title": "Groot: after Tales to Astonish 13, page 1 by Jack Kirby",
+        "src": "http://scrollboss.illmosis.net/comicedits/groot-fgtsze_bigbare_tta13p1_iamgroot.png"
+      },
+      {
+        "title": "Groot: after Tales to Astonish 13, page 1 by Jack Kirby",
+        "src": "http://scrollboss.illmosis.net/comicedits/groot-fgtsze_bigbare_tta13p1.png"
+      }
+    ]
+  },
+  {
+    "id": 1009337,
+    "name": "Havok",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/5261659ebeaf8.jpg",
+    "sprites": [
+      {
+        "title": "Havok: 2021, charge 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/havok-fgtsze_v1_pose01-ringsflat-display1.png"
+      },
+      {
+        "title": "Havok: (base: Cyclops)",
+        "src": "http://scrollboss.illmosis.net/comicedits/havok_v1_stand_powered.png"
+      }
+    ]
+  },
+  {
+    "id": 1009338,
+    "name": "Hawkeye",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/50fecaf4f101b.jpg",
+    "sprites": [
+      {
+        "title": "Hawkeye: 2018, fight stance from Captain America and the Avengers",
+        "src": "http://scrollboss.illmosis.net/comicedits/hawkeye-fgtsze_classic2_fgtstance-caata.png"
+      },
+      {
+        "title": "Hawkeye: UMvC3 stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/hawkeye-fgtsze_classic-umvc3_fgtstance-umvc3.png"
+      },
+      {
+        "title": "Hawkeye: UMvC3 stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/hawkeye-fgtsze_classic2_fgtstance-umvc3.png"
+      },
+      {
+        "title": "Hawkeye: 2023, Avengers #189 by John Byrne",
+        "src": "http://scrollboss.illmosis.net/comicedits/hawkeye-fgtsze_classic_wintaunt-avengers189cover.png"
+      },
+      {
+        "title": "Hawkeye: UMvC3 stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/hawkeye-fgtsze2017_classic-umvc3_fgtstance-umvc3.png"
+      },
+      {
+        "title": "Hawkeye: UMvC3 stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/hawkeye-fgtsze2017_classic2_fgtstance-umvc3.png"
+      },
+      {
+        "title": "Hawkeye: (base: Capt. Am)",
+        "src": "http://scrollboss.illmosis.net/comicedits/sprite_hawkeye_bowready.gif"
+      },
+      {
+        "title": "Hawkeye: (base: Capt. Am) Avengers 189 cover pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/hawkeye-capfgt_avengers189.png"
+      }
+    ]
+  },
+  {
+    "id": 1009356,
+    "name": "Human Torch",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5261a7f7b0917.jpg",
+    "sprites": [
+      {
+        "title": "Human Torch: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/humantorch-fgtsze_flameclassic_hover1.png"
+      },
+      {
+        "title": "Human Torch: 2010",
+        "src": "http://scrollboss.illmosis.net/comicedits/humantorch-capfgt_classic-off_flameonpose.png"
+      },
+      {
+        "title": "Human Torch: 2010",
+        "src": "http://scrollboss.illmosis.net/comicedits/humantorch-capfgt_on-v1_flameonpose.png"
+      },
+      {
+        "title": "Human Torch: 2010",
+        "src": "http://scrollboss.illmosis.net/comicedits/humantorch-capfgt_on-all_flameonpose.png"
+      },
+      {
+        "title": "Human Torch: 2002",
+        "src": "http://scrollboss.illmosis.net/comicedits/humantorch-capfgt_jstormstand_2002.gif"
+      },
+      {
+        "title": "Human Torch: 2002",
+        "src": "http://scrollboss.illmosis.net/comicedits/humantorch-capfgt_armsup01_2002.gif"
+      }
+    ]
+  },
+  {
+    "id": 1009368,
+    "name": "Iron Man",
+    "description": "Wounded, captured and forced to build a weapon by his enemies, billionaire industrialist Tony Stark instead created an advanced suit of armor to save his life and escape captivity. Now with a new outlook on life, Tony uses his money and intelligence to make the world a safer, better place as Iron Man.",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/527bb7b37ff55.jpg",
+    "sprites": [
+      {
+        "title": "Iron Man: 2020, scratch-made, model 1, Tales of Suspense 39 cover",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_m01v1_talesofsuspense39main.png"
+      },
+      {
+        "title": "Iron Man: 2020, scratch-made, model 1, 'Superior Tech!'",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_m01v1_win-superiortechfist.png"
+      },
+      {
+        "title": "Iron Man: 2020, scratch-made, model 1 gold, Tales of Suspense 39 cover pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_m02_talesofsuspense39main.png"
+      },
+      {
+        "title": "Iron Man: 2020, scratch-made, model 1 gold, 'Superior Tech!'",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_m02_win-superiortechfist.png"
+      },
+      {
+        "title": "Iron Man (custom pose)",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_m03_win-superiortechfist.png"
+      },
+      {
+        "title": "Iron Man: 2020, scratch-made, Classic, 'Superior Tech!'",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_classic_win-superiortechfist.png"
+      },
+      {
+        "title": "Iron Man: 2020, scratch-made, pose based on Iron Man #126 cover by John Romita Jr.",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_classic_win-ironman126cover.png"
+      },
+      {
+        "title": "Iron Man: 2020, scratch-made, Classic, 'Superior Tech!'",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_silvercent_win-superiortechfist.png"
+      },
+      {
+        "title": "Iron Man: 2020, scratch-made, Neo-classic, 'Superior Tech!'",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_neoclassic_win-superiortechfist.png"
+      },
+      {
+        "title": "Iron Man: 2021, scratch-made, Neo-classic, Captain America and the Avengers fight stance pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_neoclassic_fgtstance-caata.png"
+      },
+      {
+        "title": "Iron Man: 2020, scratch-made, Extremis/MvC3, 'Superior Tech!'",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_extremis_win-superiortechfist.png"
+      },
+      {
+        "title": "Iron Man: 2016 scratch-made, model 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-capfgt_scratchmade_mark1-pose1.png"
+      },
+      {
+        "title": "Iron Man: 2016 scratch-made, model 1 gold",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-capfgt_scratchmade_mark2-pose1.png"
+      },
+      {
+        "title": "Iron Man: 2016 scratch-made, Silver Centurian armor",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_silvercent_redrawnfightstance.png"
+      },
+      {
+        "title": "Iron Man: 2015 scratch-made, Hulkbuster v.1",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-capfgt_scratchmade_hulkbuster1_capcomfgtstance.png"
+      },
+      {
+        "title": "Iron Man (custom pose)",
+        "src": "http://scrollboss.illmosis.net/comicedits/sprite_ironman_armsatsides.gif"
+      },
+      {
+        "title": "Iron Man",
+        "src": "http://scrollboss.illmosis.net/comicedits/sprite_ironman_stand_classic4.gif"
+      },
+      {
+        "title": "Iron Man",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-capfgt_v4_fistraise.png"
+      },
+      {
+        "title": "Iron Man",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-capfgt_v4_issue126.png"
+      },
+      {
+        "title": "Iron Man",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-capfgt_l80s_supertech-nospark.png"
+      },
+      {
+        "title": "Iron Man",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-capfgt_supertech-mvsc3.png"
+      }
+    ]
+  },
+  {
+    "id": 1009390,
+    "name": "Klaw",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/526034e1c6ede.jpg",
+    "sprites": [
+      {
+        "title": "Klaw: 2018, classic, CAatA fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/klaw-fgtsze_classic_faceleft_fgtstance-av91.png"
+      },
+      {
+        "title": "Klaw: (base: Cyclops)",
+        "src": "http://scrollboss.illmosis.net/comicedits/klaw_attack1-faceleft.png"
+      }
+    ]
+  },
+  {
+    "id": 1011444,
+    "name": "Living Laser",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+    "sprites": [
+      {
+        "title": "2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/livinglaser-fgtsze_classic_chargepose1.png"
+      },
+      {
+        "title": "Living Laser: 2006, (base: Capcom MSH Captain America)",
+        "src": "http://scrollboss.illmosis.net/comicedits/livinglaser_stand.png"
+      }
+    ]
+  },
+  {
+    "id": 1009407,
+    "name": "Loki",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/526547f509313.jpg",
+    "sprites": [
+      {
+        "title": "Loki: 2012 (from scratch) classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/loki-capfgt_classic_armsfolded-serious.png"
+      },
+      {
+        "title": "Loki: 2012 (from scratch) classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/loki-capfgt_classic_armsfolded-sneer.png"
+      }
+    ]
+  },
+  {
+    "id": 1010682,
+    "name": "Misty Knight",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/511151789a863.jpg",
+    "sprites": [
+      {
+        "title": "Misty Knight: 2020, 70s-80s",
+        "src": "http://scrollboss.illmosis.net/comicedits/mistyknight-fgtsze_classic_standcalm1-handships.png"
+      },
+      {
+        "title": "Misty Knight: 2020, 70s-80s",
+        "src": "http://scrollboss.illmosis.net/comicedits/mistyknight-fgtsze_classic_standcalm1-pistolup1.png"
+      },
+      {
+        "title": "Misty Knight: 2016, 70s-80s",
+        "src": "http://scrollboss.illmosis.net/comicedits/mistyknight-fgtsze_classic_blk-prp_pistolready1.png"
+      },
+      {
+        "title": "Misty Knight: 2016, 70s-80s",
+        "src": "http://scrollboss.illmosis.net/comicedits/mistyknight-fgtsze_classic_blk-blk_pistolready1.png"
+      }
+    ]
+  },
+  {
+    "id": 1009459,
+    "name": "Mr. Fantastic",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/c0/51127e9337538.jpg",
+    "sprites": [
+      {
+        "title": "Mr. Fantastic: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/mrfantastic-fgtsze_classic_fgtstance-stretch.png"
+      },
+      {
+        "title": "Mr. Fantastic: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/mrfantastic-fgtsze_bw_fgtstance-stretch.png"
+      },
+      {
+        "title": "Mr. Fantastic: 2010",
+        "src": "http://scrollboss.illmosis.net/comicedits/mrfantastic_classic_thinking.png"
+      }
+    ]
+  },
+  {
+    "id": 1009466,
+    "name": "Namor",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/50febf4ae101d.jpg",
+    "sprites": [
+      {
+        "title": "Namor the Sub-Mariner: 2018",
+        "src": "http://scrollboss.illmosis.net/comicedits/namor-fgtsze_classic_fgtstance-smarc.png"
+      },
+      {
+        "title": "Namor the Sub-Mariner: (base:SF3 Urien)",
+        "src": "http://scrollboss.illmosis.net/comicedits/namor-capfgt_trunks_fistraise.png"
+      }
+    ]
+  },
+  {
+    "id": 1009471,
+    "name": "Nick Fury",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/5261a745e658d.jpg",
+    "sprites": [
+      {
+        "title": "Nick Fury: 2019, Punisher arcade fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/nickfury-fgtsze_classic_fgtstance-punarc.png"
+      },
+      {
+        "title": "Nick Fury: 2019, Punisher arcade fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/nickfury-fgtsze_punarc_fgtstance-punarc.png"
+      },
+      {
+        "title": "Nick Fury: 2019, Punisher arcade fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/nickfury-fgtsze_emh_fgtstance-punarc.png"
+      },
+      {
+        "title": "Nick Fury: (base:Cable)",
+        "src": "http://scrollboss.illmosis.net/comicedits/nickfury-capfgt_s-classic_pose1_bluewhite.png"
+      },
+      {
+        "title": "Nick Fury: (base:Cable)",
+        "src": "http://scrollboss.illmosis.net/comicedits/nickfury-capfgt_s-classic_pose1_blueorange.png"
+      },
+      {
+        "title": "Nick Fury: (base:Cable)",
+        "src": "http://scrollboss.illmosis.net/comicedits/nickfury-capfgt_pun-arc_pose1.png"
+      },
+      {
+        "title": "Nick Fury: (base:Cable)",
+        "src": "http://scrollboss.illmosis.net/comicedits/nickfury-capfgt_emh1_pose1.png"
+      }
+    ]
+  },
+  {
+    "id": 1009472,
+    "name": "Nightcrawler",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/526034979bc98.jpg",
+    "sprites": [
+      {
+        "title": "Nightcrawler: 2014, original outfit, Konami pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/nightcrawler-fgtsze_classic_stand-konhybrid.png"
+      },
+      {
+        "title": "Nightcrawler: 2014, X-Men NES, Konami pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/nightcrawler-fgtsze_nes_stand-konhybrid.png"
+      },
+      {
+        "title": "Nightcrawler: 2020, original outfit, teleport",
+        "src": "http://scrollboss.illmosis.net/comicedits/nightcrawler-fgtsze_classic_teleport1.png"
+      }
+    ]
+  },
+  {
+    "id": 1011124,
+    "name": "Nightshade",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg",
+    "sprites": [
+      {
+        "title": "Nightshade: 2018, original outfit",
+        "src": "http://scrollboss.illmosis.net/comicedits/nightshade-marvel-fgtsze_v1_taunt1.png"
+      },
+      {
+        "title": "Nightshade: 2018, 00s",
+        "src": "http://scrollboss.illmosis.net/comicedits/nightshade-marvel-fgtsze_2ks_taunt1.png"
+      }
+    ]
+  },
+  {
+    "id": 1009512,
+    "name": "Psylocke",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/526961ce86539.jpg",
+    "sprites": [
+      {
+        "title": "Psylocke: 2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/psylocke-fgtsze_training_pose1.png"
+      },
+      {
+        "title": "Psylocke: 2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/psylocke-fgtsze_training_pose1-psyblades.png"
+      },
+      {
+        "title": "Psylocke",
+        "src": "http://scrollboss.illmosis.net/comicedits/psylocke_xmen1lee.png"
+      }
+    ]
+  },
+  {
+    "id": 1009524,
+    "name": "Quicksilver",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/53176ffc42f58.jpg",
+    "sprites": [
+      {
+        "title": "Quicksilver: (from scratch)",
+        "src": "http://scrollboss.illmosis.net/comicedits/quicksilver-capfgt_classic-v1-blue_wait.png"
+      },
+      {
+        "title": "Quicksilver: (from scratch)",
+        "src": "http://scrollboss.illmosis.net/comicedits/quicksilver-capfgt_classic-v1-green_wait.png"
+      }
+    ]
+  },
+  {
+    "id": 1009546,
+    "name": "Rogue",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5112d84e2166c.jpg",
+    "sprites": [
+      {
+        "title": "Rogue: 2021, hover 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/rogue-fgtsze_late80s_hover1.png"
+      },
+      {
+        "title": "Rogue: (base: Rogue XMvsSF) X-Men #1 cover, after Jim Lee",
+        "src": "http://scrollboss.illmosis.net/comicedits/rogue_xmen1lee.png"
+      }
+    ]
+  },
+  {
+    "id": 1009562,
+    "name": "Scarlet Witch",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/5261a7d7c394b.jpg",
+    "sprites": [
+      {
+        "title": "Scarlet Witch: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/scarletwitch-fgtsze_classic_1970_castpose01.png"
+      },
+      {
+        "title": "Scarlet Witch: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/scarletwitch-fgtsze_classic_1970_stand-calmforward_armsdown-headcamera.png"
+      },
+      {
+        "title": "Scarlet Witch: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/scarletwitch-fgtsze_classic_1970_stand-calmforward_armsdown-headcamera.png"
+      },
+      {
+        "title": "Scarlet Witch: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/scarletwitch-fgtsze_classic_1970_stand-calmforward_armsdown-headforward.png"
+      },
+      {
+        "title": "Scarlet Witch: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/scarletwitch-fgtsze_classic_1970_stand-calmaway_armsdown-headforward.png"
+      },
+      {
+        "title": "Scarlet Witch: 2015",
+        "src": "http://scrollboss.illmosis.net/comicedits/scarletwitch-fgtsze_posea-arms1.png"
+      },
+      {
+        "title": "Scarlet Witch: 2015",
+        "src": "http://scrollboss.illmosis.net/comicedits/scarletwitch-fgtsze_posea-capehold-lookcamera.png"
+      },
+      {
+        "title": "Scarlet Witch: (base: Chun-Li SFA)",
+        "src": "http://scrollboss.illmosis.net/comicedits/scarletwitch-capfgt_pose01.gif"
+      }
+    ]
+  },
+  {
+    "id": 1009570,
+    "name": "Sentinel",
+    "description": "",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4ce5a159e5082.jpg",
+    "sprites": [
+      {
+        "title": "Sentinel: Mk. V mini (Konami arcade), Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/sentinel-marvel-fgtsze_mkvmini_purpleviolet_stand-konarc.png"
+      },
+      {
+        "title": "Sentinel: Mk. V mini (Konami arcade), Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/sentinel-marvel-fgtsze_mkvmini_purplesilver_stand-konarc.png"
+      },
+      {
+        "title": "Sentinel: Mk. V mini (Konami arcade), Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/sentinel-marvel-fgtsze_mkvmini_greensilver_stand-konarc.png"
+      },
+      {
+        "title": "Sentinel: Mk. V mini (Konami arcade), Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/sentinel-marvel-fgtsze_mkvmini_redgold_stand-konarc.png"
+      },
+      {
+        "title": "Sentinel: Mk. V mini (Konami arcade), Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/sentinel-marvel-fgtsze_mkvmini_silver_stand-konarc.png"
+      },
+      {
+        "title": "Sentinel: Mk. V mini (Konami arcade), Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/sentinel-marvel-fgtsze_mkvmini_gold_stand-konarc.png"
+      }
+    ]
+  },
+  {
+    "id": 1009592,
+    "name": "Silver Surfer",
+    "description": "When Zenn-La was threatened by the world-devouring entity known as Galactus, Norrin Radd stood up for his home planet and offered to work for Galactus, finding him new planets to eat, in exchange for saving his own. Years later, the Surfer has protected Earth and many other planets, becoming one of the greatest heroes in the universe.",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/527bb6490a176.jpg",
+    "sprites": [
+      {
+        "title": "Silver Surfer: 2017, (after J.Kirby)",
+        "src": "http://scrollboss.illmosis.net/comicedits/silversurfer-fgtsze_afterkirby-gn-p62.png"
+      },
+      {
+        "title": "Silver Surfer: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/silversurfer-fgtsze_surf-3oclock-1.png"
+      }
+    ]
+  },
+  {
+    "id": 1009629,
+    "name": "Storm",
+    "description": "Ororo Monroe is the descendant of an ancient line of African priestesses, all of whom have white hair, blue eyes, and the potential to wield magic.",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/526963dad214d.jpg",
+    "sprites": [
+      {
+        "title": "Storm: 2024, Konami arcade idle pose, original outfit",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_classic_konamistand2024.png"
+      },
+      {
+        "title": "Storm: 2024, Konami arcade idle pose, original outfit",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_classic_konamistand2024-nostaff.png"
+      },
+      {
+        "title": "Storm: 2024, Konami arcade idle pose, Uncanny X-Men #170",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_classic-uxm170_konamistand2024.png"
+      },
+      {
+        "title": "Storm: 2024, Konami arcade idle pose, 'punk' outfit",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_mohawk_konamistand2024.png"
+      },
+      {
+        "title": "Storm: 2016, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_classic_konamistance.png"
+      },
+      {
+        "title": "Storm: 2016, Konami arcade pose, with weapon",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_classic_konamistance-withstaff.png"
+      },
+      {
+        "title": "Storm: 2021, Capcom CPS2 sprites arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_classic_fgtstance-cotaremake.png"
+      },
+      {
+        "title": "Storm: 2017, Konami arcade pose, flying down",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_classic_jumpdown-konami-print.png"
+      },
+      {
+        "title": "Storm: 2016, Konami arcade pose, with weapon",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_classic_80spunk_konamistance.png"
+      },
+      {
+        "title": "Storm: 2021, Capcom CPS2 sprites arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_1988_fgtstance-cotaremake.png"
+      },
+      {
+        "title": "Storm: Scratch-made sprite based on Paul Smith's art of Storm' for Marvel Universe D.E. #12, made to make Capcom's Storm sprites",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-capfgt_punk_mupaulsmith.png"
+      },
+      {
+        "title": "Storm: (base: Capcom's Storm sprites)",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm_v1_idle-mod.gif"
+      },
+      {
+        "title": "Storm: (base: Storm) X-Men #1 tribute",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm_xmen1lee.png"
+      }
+    ]
+  },
+  {
+    "id": 1009639,
+    "name": "Super-Skrull",
+    "description": "After the Fantastic Four stopped the Skrulls' attempted invasion of Earth, Skrull Emperor Dorrek invested vast resources into creating a superbeing of his own.",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5274138fe6deb.jpg",
+    "sprites": [
+      {
+        "title": "Super-Skrull",
+        "src": "http://scrollboss.illmosis.net/comicedits/superskrull-fgtsze_classic_pose1.png"
+      },
+      {
+        "title": "Super-Skrull",
+        "src": "http://scrollboss.illmosis.net/comicedits/superskrull-fgtsze_classic_pose1_i-whole.png"
+      },
+      {
+        "title": "Super-Skrull",
+        "src": "http://scrollboss.illmosis.net/comicedits/superskrull-fgtsze_classic_pose1_l-t.png"
+      },
+      {
+        "title": "Super-Skrull",
+        "src": "http://scrollboss.illmosis.net/comicedits/superskrull-fgtsze_classic_pose1_l-f.png"
+      },
+      {
+        "title": "Super-Skrull",
+        "src": "http://scrollboss.illmosis.net/comicedits/superskrull-fgtsze_classic_pose1_b-t.png"
+      },
+      {
+        "title": "Super-Skrull",
+        "src": "http://scrollboss.illmosis.net/comicedits/superskrull-fgtsze_classic_pose1_all4-v1.png"
+      }
+    ]
+  },
+  {
+    "id": 1009648,
+    "name": "Taskmaster",
+    "description": "Taskmaster first exhibited his unusual ability, called \"photographic reflexes,\" which allowed him to mimic the motion of anyone he saw, when he was a young boy.",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/526957dc0c27f.jpg",
+    "sprites": [
+      {
+        "title": "Taskmaster: 2018, scratch-made, Marvel vs. Capcom 3 stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/taskmaster-fgtsze_classic_fgtstance-mvc3.png"
+      },
+      {
+        "title": "the Taskmaster: (base: Capt. Am)",
+        "src": "http://scrollboss.illmosis.net/comicedits/taskmaster-capfgt_capstand.png"
+      },
+      {
+        "title": "the Taskmaster: (base: Capt. Am)",
+        "src": "http://scrollboss.illmosis.net/comicedits/taskmaster-capfgt_swordthreat.png"
+      }
+    ]
+  },
+  {
+    "id": 1009685,
+    "name": "Ultron",
+    "description": "Arguably the greatest and certainly the most horrific creation of scientific genius Dr. Henry Pym, Ultron is a criminally insane rogue sentient robot dedicated to conquest and the extermination of humanity.",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5261a838e93c0.jpg",
+    "sprites": [
+      {
+        "title": "Ultron",
+        "src": "http://scrollboss.illmosis.net/comicedits/ultron-fgtsze_80s_normalsize_mu88gammill.png"
+      },
+      {
+        "title": "Ultron",
+        "src": "http://scrollboss.illmosis.net/comicedits/ultron-fgtsze_80s_mu88gammill.png"
+      },
+      {
+        "title": "Ultron",
+        "src": "http://scrollboss.illmosis.net/comicedits/ultron-fgtsze_80s_mu88gammill_headforward.png"
+      }
+    ]
+  },
+  {
+    "id": 1009697,
+    "name": "Vision",
+    "description": "The metal monstrosity called Ultron created the synthetic humanoid known as the Vision from the remains of the original android Human Torch of the 1940s to serve as a vehicle of vengeance against the Avengers.",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5111527040594.jpg",
+    "sprites": [
+      {
+        "title": "the Vision: 2017, classic, hover (scratch-made)",
+        "src": "http://scrollboss.illmosis.net/comicedits/vision-fgtsze_classic_floatup-headforward-cape1.png"
+      },
+      {
+        "title": "the Vision: originally sprited 2017?, edited 2022, arms crossed after John Buscema Avengers corner box art",
+        "src": "http://scrollboss.illmosis.net/comicedits/vision-fgtsze_classic_armscrossed.png"
+      },
+      {
+        "title": "the Vision: originally sprited 201?, edited 2022, rebooted, arms crossed after John Buscema Avengers corner box art",
+        "src": "http://scrollboss.illmosis.net/comicedits/vision-fgtsze_90swhite_armscrossed.png"
+      },
+      {
+        "title": "the Vision: originally sprited 201?, edited 2023, rebooted, arms crossed",
+        "src": "http://scrollboss.illmosis.net/comicedits/vision-fgtsze_90swhite_idle-caata.png"
+      },
+      {
+        "title": "the Vision: (base: Cyclops) Avengers 57 cover,  head 2",
+        "src": "http://scrollboss.illmosis.net/comicedits/vision-capfgt_classic_av57pose.png"
+      },
+      {
+        "title": "the Vision: (base: Cyclops) West Coast Avengers 45, head 2",
+        "src": "http://scrollboss.illmosis.net/comicedits/vision-capfgt_1989_av57pose.png"
+      }
+    ]
+  },
+  {
+    "id": 1009707,
+    "name": "Wasp",
+    "description": "When Janet Van Dyne's father died, she convinced her father's associate Hank Pym to give her a supply of \"Pym particles\"; Pym also subjected her to a procedure which granted her the ability to, upon shrinking, grow wings and fire blasts of energy, which she called her \"wasp's stings.\"",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/5390dfd5ef165.jpg",
+    "sprites": [
+      {
+        "title": "Wasp",
+        "src": "http://scrollboss.illmosis.net/comicedits/wasp-fgtsze_avengers1_akimbo1.png"
+      },
+      {
+        "title": "Wasp",
+        "src": "http://scrollboss.illmosis.net/comicedits/wasp-fgtsze_avengers2_akimbo1.png"
+      },
+      {
+        "title": "Wasp",
+        "src": "http://scrollboss.illmosis.net/comicedits/wasp-fgtsze_l80e90_akimbo1.png"
+      },
+      {
+        "title": "Wasp",
+        "src": "http://scrollboss.illmosis.net/comicedits/wasp-capfgt_original1_stingthreat.png"
+      },
+      {
+        "title": "Wasp",
+        "src": "http://scrollboss.illmosis.net/comicedits/wasp-capfgt_original2_stingthreat.png"
+      },
+      {
+        "title": "Wasp",
+        "src": "http://scrollboss.illmosis.net/comicedits/wasp-capfgt_l80e90_stingthreat-lit.png"
+      },
+      {
+        "title": "Wasp",
+        "src": "http://scrollboss.illmosis.net/comicedits/wasp-capfgt_mid2ks_stingthreat.png"
+      },
+      {
+        "title": "Wasp",
+        "src": "http://scrollboss.illmosis.net/comicedits/wasp-capfgt_emh_stingthreat-lit.png"
+      }
+    ]
+  },
+  {
+    "id": 1010348,
+    "name": "Whirlwind",
+    "description": "David Cannon was always a bully, so his mutant abilities naturally led him to a life of crime and petty thievery, until his constant defeat at the hands of the Hank Pym and the Wasp led him to create the Whirlwind identity.",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/4c7c643e59215.jpg",
+    "sprites": [
+      {
+        "title": "Whirlwind: 2020, Captain America and the Avengers stand pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/whirlwind-fgtsze_classicgreen_standcalm.png"
+      },
+      {
+        "title": "Whirlwind: 2020, Captain America and the Avengers stand pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/whirlwind-fgtsze_classicgreen_standcalm-money-faceright.png"
+      },
+      {
+        "title": "Whirlwind",
+        "src": "http://scrollboss.illmosis.net/comicedits/whirlwind-capfgt_grn-bare_stand.png"
+      },
+      {
+        "title": "Whirlwind",
+        "src": "http://scrollboss.illmosis.net/comicedits/whirlwind-capfgt_grn-bare_stand-money.png"
+      }
+    ]
+  },
+  {
+    "id": 1009718,
+    "name": "Wolverine",
+    "description": "Born with super-human senses and the power to heal from almost any wound, Wolverine was captured by a secret Canadian organization and given an unbreakable skeleton and claws. Treated like an animal, it took years for him to control himself. Now, he's a premiere member of both the X-Men and the Avengers.",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/537bcaef0f6cf.jpg",
+    "sprites": [
+      {
+        "title": "Wolverine: 2017 - updated 2020, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/wolverine-fgtsze_ornbrn_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Wolverine: 2020, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/wolverine-fgtsze_weaponxdevhelmet_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Wolverine: 2020, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/wolverine-fgtsze_1stmask_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Wolverine: 2020, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/wolverine-fgtsze_fang_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Wolverine: 2020, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/wolverine-fgtsze_nes_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Wolverine: (base: Wolverine) X-Men #1 tribute",
+        "src": "http://scrollboss.illmosis.net/comicedits/wolverine_xmen1lee.png"
+      },
+      {
+        "title": "Wolverine",
+        "src": "http://scrollboss.illmosis.net/comicedits/wolverine_orn-brn_leap.png"
+      }
+    ]
+  },
+  {
+    "id": 1009719,
+    "name": "Wonder Man",
+    "description": "Simon Williams agreed to undergo an experiment to give him superhuman powers, and Baron Zemo gave him the costumed guise of Wonder Man, warning Simon that he would die without further treatments from Zemo in order to ensure his loyalty, but Simon betrayed Zemo to the Avengers and ultimately joined their ranks.",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/40/4ce5a205a2322.jpg",
+    "sprites": [
+      {
+        "title": "Wonder Man: scratch-made 2015, Avengers #9 cover pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/wonderman-fgtsze_wcaera_avengers9cover_sideslight.png"
+      },
+      {
+        "title": "Wonder Man: scratch-made 2015, Avengers #9 cover pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/wonderman-fgtsze_v1_avengers9cover_sideslight.png"
+      }
+    ]
+  },
+  {
+    "id": 1009722,
+    "name": "X-23",
+    "description": "A clone of the mutant Wolverine, X-23 was trained as a living weapon by a secretive government agency.  Now residing with the X-Men, she strives to recover her stolen youth and become a fully realized person.",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/50fec5ed6f3de.jpg",
+    "sprites": [
+      {
+        "title": "X-23: 2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/x23-fgtsze_mvc3_fgtstance-mvc3.png"
+      },
+      {
+        "title": "X-23: edit (base: Marrow?)",
+        "src": "http://scrollboss.illmosis.net/comicedits/x23-capfgt_mvsc3_stand1-v1.png"
+      }
+    ]
+  },
+  {
+    "id": 1009726,
+    "name": "X-Men",
+    "description": "Feared and hated by humans because they're different, the X-Men are heroic mutants, individuals born with special powers who've sworn to use their gifts to protect mutants as well as humans.",
+    "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/510c08f345938.jpg",
+    "sprites": [
+      {
+        "title": "X-Men: 2021, Konami playable squad 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/xmen-fgtsze_konami_center1.png"
+      },
+      {
+        "title": "X-Men NES: 2014 (base: all from Capcom games except for Nightcrawler, who was scratch-made) Uncanny X-Men NES uniforms",
+        "src": "http://scrollboss.illmosis.net/comicedits/xmen-capfgt_nesgroupsprite.png"
+      },
+      {
+        "title": "Jim Lee's X-Men #1 - Click to see full-size",
+        "src": "http://scrollboss.illmosis.net/comicedits/xmen_jimleexmen1_sunset_2007edits_75percent.png"
+      }
+    ]
+  }
+]
