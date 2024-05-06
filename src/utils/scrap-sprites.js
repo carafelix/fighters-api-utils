@@ -4,28 +4,31 @@ import fs from 'fs';
 
 const base = 'http://scrollboss.illmosis.net/';
 const marvel = 'customsprites.php?g=marvel';
-const html = (
+
+const entry = (
   await axios({
     method: 'get',
     url: base + marvel,
   })
 ).data;
 
-const $ = load(html);
+const $ = load(entry);
+const charsUrls = $('a[href^="customsprites.php?g=marvel&s="]')
+  .map((i, el) => base + $(el).attr('href'))
+  .toArray();
 
-const charsUrls = $('a[href^="customsprites.php?g=marvel&s="]').map(
-  (i, el) => base + $(el).attr('href')
-);
-
-const result = [];
-
-for (const charSite of charsUrls) {
-  const charHtml = (
-    await axios({
+const charsHtmls = await Promise.all(
+  charsUrls.map((charSite) => {
+    return axios({
       method: 'get',
       url: charSite,
-    })
-  ).data;
+    });
+  })
+);
+
+const sprites = charsHtmls.map((charSiteResponse) => {
+  const url = charSiteResponse.config.url;
+  const charHtml = charSiteResponse.data;
   const $char = load(charHtml);
   const sprites = $char('img[class="crisp"]')
     .map((i, el) => {
@@ -41,12 +44,12 @@ for (const charSite of charsUrls) {
     .text()
     .replace('Sub-gallery: ', '');
 
-  result.push({
-    url: charSite,
-    urlname: charSite.split('marvel&s=')[1].replace('-fgtsze', ''),
+  return {
+    url,
+    urlname: url.split('marvel&s=')[1].replace('-fgtsze', ''),
     name,
     sprites,
-  });
-}
+  };
+});
 
-fs.writeFileSync('./src/utils/json-out/sprites.json', JSON.stringify(result));
+fs.writeFileSync('./src/utils/json-out/sprites.json', JSON.stringify(sprites));
