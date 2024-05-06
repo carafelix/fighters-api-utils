@@ -1,0 +1,443 @@
+[
+  {
+    "name": "Absorbing Man",
+    "intelligence": 2,
+    "strength": 8,
+    "speed": 3,
+    "durability": 9,
+    "power": 8,
+    "combat": 7
+  },
+  {
+    "name": "Avengers",
+    "intelligence": 7,
+    "strength": 9,
+    "speed": 7,
+    "durability": 8,
+    "power": 8,
+    "combat": 8
+  },
+  {
+    "name": "Batroc the Leaper",
+    "intelligence": 4,
+    "strength": 3,
+    "speed": 6,
+    "durability": 3,
+    "power": 2,
+    "combat": 7
+  },
+  {
+    "name": "Beast",
+    "intelligence": 9,
+    "strength": 4,
+    "speed": 6,
+    "durability": 4,
+    "power": 3,
+    "combat": 5
+  },
+  {
+    "name": "Black Cat",
+    "intelligence": 6,
+    "strength": 3,
+    "speed": 5,
+    "durability": 3,
+    "power": 2,
+    "combat": 6
+  },
+  {
+    "name": "Black Panther",
+    "intelligence": 8,
+    "strength": 4,
+    "speed": 6,
+    "durability": 4,
+    "power": 3,
+    "combat": 9
+  },
+  {
+    "name": "Black Widow",
+    "intelligence": 7,
+    "strength": 3,
+    "speed": 6,
+    "durability": 4,
+    "power": 2,
+    "combat": 8
+  },
+  {
+    "name": "Boomerang",
+    "intelligence": 5,
+    "strength": 3,
+    "speed": 5,
+    "durability": 3,
+    "power": 2,
+    "combat": 6
+  },
+  {
+    "name": "Captain America",
+    "intelligence": 7,
+    "strength": 4,
+    "speed": 5,
+    "durability": 4,
+    "power": 3,
+    "combat": 9
+  },
+  {
+    "name": "Colossus",
+    "intelligence": 4,
+    "strength": 9,
+    "speed": 3,
+    "durability": 9,
+    "power": 5,
+    "combat": 7
+  },
+  {
+    "name": "Crossbones",
+    "intelligence": 5,
+    "strength": 4,
+    "speed": 4,
+    "durability": 6,
+    "power": 2,
+    "combat": 7
+  },
+  {
+    "name": "Cyclops",
+    "intelligence": 7,
+    "strength": 3,
+    "speed": 4,
+    "durability": 4,
+    "power": 7,
+    "combat": 7
+  },
+  {
+    "name": "Daredevil",
+    "intelligence": 7,
+    "strength": 3,
+    "speed": 7,
+    "durability": 4,
+    "power": 2,
+    "combat": 9
+  },
+  {
+    "name": "Dazzler",
+    "intelligence": 5,
+    "strength": 3,
+    "speed": 4,
+    "durability": 3,
+    "power": 7,
+    "combat": 5
+  },
+  {
+    "name": "Deadpool",
+    "intelligence": 6,
+    "strength": 4,
+    "speed": 7,
+    "durability": 9,
+    "power": 5,
+    "combat": 9
+  },
+  {
+    "name": "Doctor Doom",
+    "intelligence": 10,
+    "strength": 4,
+    "speed": 4,
+    "durability": 7,
+    "power": 10,
+    "combat": 7
+  },
+  {
+    "name": "Firestar",
+    "intelligence": 6,
+    "strength": 4,
+    "speed": 6,
+    "durability": 5,
+    "power": 7,
+    "combat": 6
+  },
+  {
+    "name": "Grim Reaper",
+    "intelligence": 6,
+    "strength": 4,
+    "speed": 3,
+    "durability": 4,
+    "power": 3,
+    "combat": 6
+  },
+  {
+    "name": "Groot",
+    "intelligence": 4,
+    "strength": 9,
+    "speed": 3,
+    "durability": 8,
+    "power": 7,
+    "combat": 6
+  },
+  {
+    "name": "Havok",
+    "intelligence": 6,
+    "strength": 3,
+    "speed": 5,
+    "durability": 5,
+    "power": 8,
+    "combat": 7
+  },
+  {
+    "name": "Hawkeye",
+    "intelligence": 6,
+    "strength": 3,
+    "speed": 5,
+    "durability": 4,
+    "power": 2,
+    "combat": 9
+  },
+  {
+    "name": "Human Torch",
+    "intelligence": 5,
+    "strength": 4,
+    "speed": 7,
+    "durability": 4,
+    "power": 8,
+    "combat": 6
+  },
+  {
+    "name": "Iron Man",
+    "intelligence": 10,
+    "strength": 4,
+    "speed": 5,
+    "durability": 6,
+    "power": 8,
+    "combat": 7
+  },
+  {
+    "name": "Klaw",
+    "intelligence": 7,
+    "strength": 3,
+    "speed": 3,
+    "durability": 4,
+    "power": 7,
+    "combat": 6
+  },
+  {
+    "name": "Living Laser",
+    "intelligence": 6,
+    "strength": 3,
+    "speed": 6,
+    "durability": 4,
+    "power": 8,
+    "combat": 5
+  },
+  {
+    "name": "Loki",
+    "intelligence": 9,
+    "strength": 4,
+    "speed": 3,
+    "durability": 7,
+    "power": 9,
+    "combat": 7
+  },
+  {
+    "name": "Misty Knight",
+    "intelligence": 6,
+    "strength": 3,
+    "speed": 4,
+    "durability": 3,
+    "power": 3,
+    "combat": 8
+  },
+  {
+    "name": "Mr. Fantastic",
+    "intelligence": 10,
+    "strength": 3,
+    "speed": 3,
+    "durability": 6,
+    "power": 3,
+    "combat": 4
+  },
+  {
+    "name": "Namor",
+    "intelligence": 6,
+    "strength": 9,
+    "speed": 6,
+    "durability": 8,
+    "power": 5,
+    "combat": 8
+  },
+  {
+    "name": "Nick Fury",
+    "intelligence": 8,
+    "strength": 3,
+    "speed": 5,
+    "durability": 3,
+    "power": 3,
+    "combat": 9
+  },
+  {
+    "name": "Nightcrawler",
+    "intelligence": 6,
+    "strength": 3,
+    "speed": 8,
+    "durability": 3,
+    "power": 2,
+    "combat": 8
+  },
+  {
+    "name": "Nightshade",
+    "intelligence": 7,
+    "strength": 2,
+    "speed": 3,
+    "durability": 3,
+    "power": 3,
+    "combat": 4
+  },
+  {
+    "name": "Psylocke",
+    "intelligence": 7,
+    "strength": 4,
+    "speed": 6,
+    "durability": 4,
+    "power": 7,
+    "combat": 9
+  },
+  {
+    "name": "Quicksilver",
+    "intelligence": 5,
+    "strength": 3,
+    "speed": 10,
+    "durability": 3,
+    "power": 2,
+    "combat": 6
+  },
+  {
+    "name": "Rogue",
+    "intelligence": 6,
+    "strength": 9,
+    "speed": 6,
+    "durability": 7,
+    "power": 8,
+    "combat": 7
+  },
+  {
+    "name": "Scarlet Witch",
+    "intelligence": 6,
+    "strength": 2,
+    "speed": 3,
+    "durability": 4,
+    "power": 10,
+    "combat": 5
+  },
+  {
+    "name": "Sentinel",
+    "intelligence": 5,
+    "strength": 10,
+    "speed": 3,
+    "durability": 9,
+    "power": 9,
+    "combat": 5
+  },
+  {
+    "name": "Silver Surfer",
+    "intelligence": 7,
+    "strength": 9,
+    "speed": 10,
+    "durability": 10,
+    "power": 10,
+    "combat": 7
+  },
+  {
+    "name": "Storm",
+    "intelligence": 7,
+    "strength": 4,
+    "speed": 6,
+    "durability": 5,
+    "power": 9,
+    "combat": 8
+  },
+  {
+    "name": "Super-Skrull",
+    "intelligence": 6,
+    "strength": 8,
+    "speed": 4,
+    "durability": 8,
+    "power": 8,
+    "combat": 7
+  },
+  {
+    "name": "Taskmaster",
+    "intelligence": 7,
+    "strength": 3,
+    "speed": 5,
+    "durability": 3,
+    "power": 3,
+    "combat": 9
+  },
+  {
+    "name": "Ultron",
+    "intelligence": 9,
+    "strength": 10,
+    "speed": 7,
+    "durability": 10,
+    "power": 10,
+    "combat": 9
+  },
+  {
+    "name": "Vision",
+    "intelligence": 9,
+    "strength": 8,
+    "speed": 7,
+    "durability": 8,
+    "power": 8,
+    "combat": 8
+  },
+  {
+    "name": "Wasp",
+    "intelligence": 7,
+    "strength": 2,
+    "speed": 5,
+    "durability": 3,
+    "power": 4,
+    "combat": 6
+  },
+  {
+    "name": "Whirlwind",
+    "intelligence": 4,
+    "strength": 4,
+    "speed": 7,
+    "durability": 5,
+    "power": 4,
+    "combat": 6
+  },
+  {
+    "name": "Wolverine",
+    "intelligence": 6,
+    "strength": 5,
+    "speed": 5,
+    "durability": 9,
+    "power": 3,
+    "combat": 10
+  },
+  {
+    "name": "Wonder Man",
+    "intelligence": 5,
+    "strength": 10,
+    "speed": 7,
+    "durability": 9,
+    "power": 7,
+    "combat": 7
+  },
+  {
+    "name": "X-23",
+    "intelligence": 5,
+    "strength": 5,
+    "speed": 6,
+    "durability": 6,
+    "power": 3,
+    "combat": 9
+  },
+  {
+    "name": "X-Men",
+    "intelligence": 7,
+    "strength": 7,
+    "speed": 6,
+    "durability": 7,
+    "power": 7,
+    "combat": 7
+  }
+]
