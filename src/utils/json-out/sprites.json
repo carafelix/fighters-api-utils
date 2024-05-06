@@ -1,0 +1,3284 @@
+[
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=blackcat-fgtsze",
+    "urlname": "blackcat",
+    "name": "Black Cat",
+    "sprites": [
+      {
+        "title": "Black Cat",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackcat-marvel-fgtsze_classic_fgtstance-sm91.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=blackknight-fgtsze",
+    "urlname": "blackknight",
+    "name": "the Black Knight",
+    "sprites": [
+      {
+        "title": "the Black Knight: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackknightmarvel-fgtsze_dane-classic_stand01-ebonybladesheathed.png"
+      },
+      {
+        "title": "the Black Knight: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackknightmarvel-fgtsze_dane-classic_stand01-ebonybladeheld1.png"
+      },
+      {
+        "title": "the Black Knight: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackknightmarvel-fgtsze_dane-jacketa_stand01-ebonybladeheld1.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=blackpanther-fgtsze",
+    "urlname": "blackpanther",
+    "name": "Black Panther",
+    "sprites": [
+      {
+        "title": "Black Panther",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther-fgtsze_classic-cape_fgtstand.png"
+      },
+      {
+        "title": "Black Panther: 2018",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther-fgtsze_classic-cape_calmstand1.png"
+      },
+      {
+        "title": "Black Panther",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther-fgtsze_classic-nocape_fgtstand.png"
+      },
+      {
+        "title": "Black Panther: 2018",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther-fgtsze_classic-nocape_calmstand1.png"
+      },
+      {
+        "title": "Black Panther",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther-fgtsze_90s_fgtstand.png"
+      },
+      {
+        "title": "Black Panther: 2018",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther-fgtsze_90s_calmstand1.png"
+      },
+      {
+        "title": "Black Panther",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther_classiccape_stand.png"
+      },
+      {
+        "title": "Black Panther",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther_classicnocape_stand.png"
+      },
+      {
+        "title": "Black Panther",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther_classicnocapecowl_stand.png"
+      },
+      {
+        "title": "Black Panther",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther_priest-era-main_stand.png"
+      },
+      {
+        "title": "Black Panther",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther-capbased_lpunch.gif"
+      },
+      {
+        "title": "Black Panther",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther-capbased_maskon.gif"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=blackwidow-fgtsze",
+    "urlname": "blackwidow",
+    "name": "Black Widow",
+    "sprites": [
+      {
+        "title": "Black Widow: 2015, adjusted 2020, from scratch",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow-fgtsze_classic_wintaunt-stingup1-2020.png"
+      },
+      {
+        "title": "Black Widow: 2021 from scratch, remake of 2001 sprite edit fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow-fgtsze_classic_fightstance-2001redone.png"
+      },
+      {
+        "title": "Black Widow: 2015 from scratch",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow-fgtsze_classic-blkgold_wintaunt-stingup1.png"
+      },
+      {
+        "title": "Black Widow: 2015 from scratch",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow-fgtsze_classic-bluegold_wintaunt-stingup1.png"
+      },
+      {
+        "title": "Black Widow: 2015 from scratch",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow-fgtsze_classic-blksilv_wintaunt-stingup1.png"
+      },
+      {
+        "title": "Black Widow: 2015 from scratch, Scarlett Johannson IM2 low pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow-fgtsze_classic_scarjoim2lowpose.png"
+      },
+      {
+        "title": "Black Widow: 2007 from scratch, Bowen Statue pose (from scratch)",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow_hairblowtaunt.png"
+      },
+      {
+        "title": "Black Widow",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow-psybased_2001stand.gif"
+      },
+      {
+        "title": "Black Widow",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow-psybased_2004stand.gif"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=captamerica-fgtsze",
+    "urlname": "captamerica",
+    "name": "Captain America",
+    "sprites": [
+      {
+        "title": "Captain America: 2017, updated 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/captamerica-fgtsze_classic_stand1-lshoulderf-shieldleft-lookleft.png"
+      },
+      {
+        "title": "Captain America: 2017, updated 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/captamerica-fgtsze_classic_wintaunt-avengersv1i16cover.png"
+      },
+      {
+        "title": "Captain America: 2017, updated 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/captamerica-fgtsze_classic_wintaunt-avengersv1i16cover_wordballoon.png"
+      },
+      {
+        "title": "Captain America: 2017, 2012 MSH Capcom edit, pose based on Avengers #16 cover by Jack Kirby",
+        "src": "http://scrollboss.illmosis.net/comicedits/captam-capfgt_avengers16cover.png"
+      },
+      {
+        "title": "Captain America: 2017, 2012 MSH Capcom edit, pose based on Avengers #16 cover by Jack Kirby",
+        "src": "http://scrollboss.illmosis.net/comicedits/captam-capfgt_avengers16cover.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=caroldanvers-fgtsze",
+    "urlname": "caroldanvers",
+    "name": "Carol Danvers/Ms. Marvel/Warbird/Binary",
+    "sprites": [
+      {
+        "title": "Captain Marvel, Danvers: 2017 scratch-made, Marvel vs. Capcom: Infinite stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/captmarveldanvers-fgtsze_v2_blue-red_fgtstance-mvci.png"
+      },
+      {
+        "title": "Ms. Marvel, Danvers: 2017 scratch-made, Marvel vs. Capcom: Infinite stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/msmarveldanvers-fgtsze_v2_blue-red_fgtstance-mvci.png"
+      },
+      {
+        "title": "Ms. Marvel, Danvers: 2015 scratch-made, based on Dave Cockrum's cornerbox art",
+        "src": "http://scrollboss.illmosis.net/comicedits/msmarveldanvers-fgtsze_v2_davecockrumcornerboxpose_dblue-red.png"
+      },
+      {
+        "title": "Ms. Marvel, Danvers: 2015 scratch-made, based on Dave Cockrum's cornerbox art",
+        "src": "http://scrollboss.illmosis.net/comicedits/msmarveldanvers-fgtsze_v2_davecockrumcornerboxpose_blk-red.png"
+      },
+      {
+        "title": "Ms. Marvel, Danvers: 2006 edit(base:Psylocke)",
+        "src": "http://scrollboss.illmosis.net/comicedits/msmarvel_flyback_blue.png"
+      },
+      {
+        "title": "Ms. Marvel, Danvers: 2006 edit (base:Psylocke)",
+        "src": "http://scrollboss.illmosis.net/comicedits/msmarvel_flyback_blk.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=daredevil-fgtsze",
+    "urlname": "daredevil",
+    "name": "Daredevil",
+    "sprites": [
+      {
+        "title": "Daredevil: 2024",
+        "src": "http://scrollboss.illmosis.net/comicedits/daredevil-fgtsze_classic_calmstand-headforward-w1strap.png"
+      },
+      {
+        "title": "Daredevil: 2024",
+        "src": "http://scrollboss.illmosis.net/comicedits/daredevil-fgtsze_classic_calmstand-headforward-w2.png"
+      },
+      {
+        "title": "Daredevil: 2024",
+        "src": "http://scrollboss.illmosis.net/comicedits/daredevil-fgtsze_classic_ready-emptyhand.png"
+      },
+      {
+        "title": "Daredevil: 2024",
+        "src": "http://scrollboss.illmosis.net/comicedits/daredevil-fgtsze_classic_ready-w1strap.png"
+      },
+      {
+        "title": "Daredevil: 2018, fight stance 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/daredevil-fgtsze_red_stance1-2sticks.png"
+      },
+      {
+        "title": "Daredevil: 2018, fight stance 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/daredevil-fgtsze_red_stance1-1club.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=deadpool-fgtsze",
+    "urlname": "deadpool",
+    "name": "Deadpool",
+    "sprites": [
+      {
+        "title": "Deadpool: 2017, MvC3 taunt",
+        "src": "http://scrollboss.illmosis.net/comicedits/deadpool-fgtsze_mvc3_taunt-mvc3.png"
+      },
+      {
+        "title": "Deadpool: 2017, MvC3 taunt",
+        "src": "http://scrollboss.illmosis.net/comicedits/deadpool-fgtsze_mvc3_taunt-mvc3-withballoon.png"
+      },
+      {
+        "title": "Deadpool: 2017, MvC3 taunt",
+        "src": "http://scrollboss.illmosis.net/comicedits/deadpool-fgtsze_mvc3_taunt-mvc3-wordballoon.png"
+      },
+      {
+        "title": "Deadpool: (base: Cyclops) Dan Hibiki imitation",
+        "src": "http://scrollboss.illmosis.net/comicedits/deadpool_dantastic.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=drstrange-fgtsze",
+    "urlname": "drstrange",
+    "name": "Dr. Strange",
+    "sprites": [
+      {
+        "title": "Doctor Strange: 2022, UMvC3 fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/doctorstrange-fgtsze_classic_idle-umvc3.png"
+      },
+      {
+        "title": "Doctor Strange: 2016, UMvC3 fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/drstrange-fgtsze_classic_fstance-umvc3.png"
+      },
+      {
+        "title": "Doctor Strange: 2016, UMvC3 fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/drstrange-fgtsze_umvc3_fstance-umvc3.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=doramilaje-fgtsze",
+    "urlname": "doramilaje",
+    "name": "the Dora Mijale",
+    "sprites": [
+      {
+        "title": "Okoye: '98 uniform",
+        "src": "http://scrollboss.illmosis.net/comicedits/doramilaje-fgtsze_98battle_okoye_guard-spear.png"
+      },
+      {
+        "title": "Nakia: '98 uniform",
+        "src": "http://scrollboss.illmosis.net/comicedits/doramilaje-fgtsze_98battle_nakia_guard-spear.png"
+      },
+      {
+        "title": "bald Dora Milaje: '98 uniform",
+        "src": "http://scrollboss.illmosis.net/comicedits/doramilaje-fgtsze_98battle_bald_guard-spear.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=falcon-fgtsze",
+    "urlname": "falcon",
+    "name": "The Falcon",
+    "sprites": [
+      {
+        "title": "the Falcon: 2015?",
+        "src": "http://scrollboss.illmosis.net/comicedits/falcon-fgtsze_classic_flyback.png"
+      },
+      {
+        "title": "the Falcon: (base: Capt. Am)",
+        "src": "http://scrollboss.illmosis.net/comicedits/falcon-capfgt_classic_stand1.png"
+      },
+      {
+        "title": "the Falcon and Redwing: (base: Capt. Am)",
+        "src": "http://scrollboss.illmosis.net/comicedits/falcon-capfgt_classic_stand1-redwing.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=firestar-fgtsze",
+    "urlname": "firestar",
+    "name": "Firestar",
+    "sprites": [
+      {
+        "title": "Firestar: 2020-2021, classic, hover",
+        "src": "http://scrollboss.illmosis.net/comicedits/firestar-fgtsze_classic_hover1.png"
+      },
+      {
+        "title": "Firestar: (base: Storm)",
+        "src": "http://scrollboss.illmosis.net/comicedits/firestar_hover1.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=ghostrider-fgtsze",
+    "urlname": "ghostrider",
+    "name": "Ghost Rider",
+    "sprites": [
+      {
+        "title": "Ghost Rider",
+        "src": "http://scrollboss.illmosis.net/comicedits/ghostrider-fgtsze_ketch_fgtstance-mvc3.png"
+      },
+      {
+        "title": "Ghost Rider",
+        "src": "http://scrollboss.illmosis.net/comicedits/ghostrider-fgtsze_ketch-nff_fgtstance-mvc3.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=groot-fgtsze",
+    "urlname": "groot",
+    "name": "Groot",
+    "sprites": [
+      {
+        "title": "Groot: after Tales to Astonish 13, page 1 by Jack Kirby",
+        "src": "http://scrollboss.illmosis.net/comicedits/groot-fgtsze_bigbare_tta13p1_iamgroot-faceleft.png"
+      },
+      {
+        "title": "Groot: after Tales to Astonish 13, page 1 by Jack Kirby",
+        "src": "http://scrollboss.illmosis.net/comicedits/groot-fgtsze_bigbare_tta13p1_iamgroot.png"
+      },
+      {
+        "title": "Groot: after Tales to Astonish 13, page 1 by Jack Kirby",
+        "src": "http://scrollboss.illmosis.net/comicedits/groot-fgtsze_bigbare_tta13p1.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=hankpym-fgtsze",
+    "urlname": "hankpym",
+    "name": "Hank Pym: Ant-Man, Golaith, Yellowjacket",
+    "sprites": [
+      {
+        "title": "Ant-Man/Hank Pym: size change pose, 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/antman-fgtsze_pym60s_normal_stand-sizechange.png"
+      },
+      {
+        "title": "Ant Man/Hank Pym: scratch-made, giant pose, regular size",
+        "src": "http://scrollboss.illmosis.net/comicedits/antman-fgtsze_classic-flatgloves_giantpose-regsize.png"
+      },
+      {
+        "title": "Yellowjacket/Hank Pym: scratch-made sprite",
+        "src": "http://scrollboss.illmosis.net/comicedits/yellowjacket-pym-capfgt_giantpose-regsize.png"
+      },
+      {
+        "title": "Giant-Man/Hank Pym: (from scratch)",
+        "src": "http://scrollboss.illmosis.net/comicedits/giantman-capfgt_v1_giantstand1.png"
+      },
+      {
+        "title": "Giant-Man/Hank Pym: (from scratch)",
+        "src": "http://scrollboss.illmosis.net/comicedits/giantman-capfgt_v3_giantstand1.png"
+      },
+      {
+        "title": "Goliath/Hank Pym: (from scratch)",
+        "src": "http://scrollboss.illmosis.net/comicedits/goliath-pym-capfgt_v1-blueyellow_giantstand1.png"
+      },
+      {
+        "title": "Goliath/Hank Pym: (from scratch)",
+        "src": "http://scrollboss.illmosis.net/comicedits/goliath-pym-capfgt_redblue-yellow1_giantstand1.png"
+      },
+      {
+        "title": "Ant Man/Hank Pym: scratch-made sprite",
+        "src": "http://scrollboss.illmosis.net/comicedits/antman_2001_stand1.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=hawkeye-fgtsze",
+    "urlname": "hawkeye",
+    "name": "Hawkeye",
+    "sprites": [
+      {
+        "title": "Hawkeye: 2018, fight stance from Captain America and the Avengers",
+        "src": "http://scrollboss.illmosis.net/comicedits/hawkeye-fgtsze_classic2_fgtstance-caata.png"
+      },
+      {
+        "title": "Hawkeye: UMvC3 stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/hawkeye-fgtsze_classic-umvc3_fgtstance-umvc3.png"
+      },
+      {
+        "title": "Hawkeye: UMvC3 stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/hawkeye-fgtsze_classic2_fgtstance-umvc3.png"
+      },
+      {
+        "title": "Hawkeye: 2023, Avengers #189 by John Byrne",
+        "src": "http://scrollboss.illmosis.net/comicedits/hawkeye-fgtsze_classic_wintaunt-avengers189cover.png"
+      },
+      {
+        "title": "Hawkeye: UMvC3 stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/hawkeye-fgtsze2017_classic-umvc3_fgtstance-umvc3.png"
+      },
+      {
+        "title": "Hawkeye: UMvC3 stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/hawkeye-fgtsze2017_classic2_fgtstance-umvc3.png"
+      },
+      {
+        "title": "Hawkeye: (base: Capt. Am)",
+        "src": "http://scrollboss.illmosis.net/comicedits/sprite_hawkeye_bowready.gif"
+      },
+      {
+        "title": "Hawkeye: (base: Capt. Am) Avengers 189 cover pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/hawkeye-capfgt_avengers189.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=ironfist-fgtsze",
+    "urlname": "ironfist",
+    "name": "Iron Fist",
+    "sprites": [
+      {
+        "title": "Iron Fist: 2016",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironfist-fgtsze_classic-grn_calmstand1.png"
+      },
+      {
+        "title": "Iron Fist: 2016",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironfist-fgtsze_classic-grn_calmstand1-energy1.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=ironman-fgtsze",
+    "urlname": "ironman",
+    "name": "Iron Man",
+    "sprites": [
+      {
+        "title": "Iron Man: 2020, scratch-made, model 1, Tales of Suspense 39 cover",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_m01v1_talesofsuspense39main.png"
+      },
+      {
+        "title": "Iron Man: 2020, scratch-made, model 1, 'Superior Tech!'",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_m01v1_win-superiortechfist.png"
+      },
+      {
+        "title": "Iron Man: 2020, scratch-made, model 1 gold, Tales of Suspense 39 cover pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_m02_talesofsuspense39main.png"
+      },
+      {
+        "title": "Iron Man: 2020, scratch-made, model 1 gold, 'Superior Tech!'",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_m02_win-superiortechfist.png"
+      },
+      {
+        "title": "Iron Man (custom pose)",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_m03_win-superiortechfist.png"
+      },
+      {
+        "title": "Iron Man: 2020, scratch-made, Classic, 'Superior Tech!'",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_classic_win-superiortechfist.png"
+      },
+      {
+        "title": "Iron Man: 2020, scratch-made, pose based on Iron Man #126 cover by John Romita Jr.",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_classic_win-ironman126cover.png"
+      },
+      {
+        "title": "Iron Man: 2020, scratch-made, Classic, 'Superior Tech!'",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_silvercent_win-superiortechfist.png"
+      },
+      {
+        "title": "Iron Man: 2020, scratch-made, Neo-classic, 'Superior Tech!'",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_neoclassic_win-superiortechfist.png"
+      },
+      {
+        "title": "Iron Man: 2021, scratch-made, Neo-classic, Captain America and the Avengers fight stance pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_neoclassic_fgtstance-caata.png"
+      },
+      {
+        "title": "Iron Man: 2020, scratch-made, Extremis/MvC3, 'Superior Tech!'",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_extremis_win-superiortechfist.png"
+      },
+      {
+        "title": "Iron Man: 2016 scratch-made, model 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-capfgt_scratchmade_mark1-pose1.png"
+      },
+      {
+        "title": "Iron Man: 2016 scratch-made, model 1 gold",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-capfgt_scratchmade_mark2-pose1.png"
+      },
+      {
+        "title": "Iron Man: 2016 scratch-made, Silver Centurian armor",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_silvercent_redrawnfightstance.png"
+      },
+      {
+        "title": "Iron Man: 2015 scratch-made, Hulkbuster v.1",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-capfgt_scratchmade_hulkbuster1_capcomfgtstance.png"
+      },
+      {
+        "title": "Iron Man (custom pose)",
+        "src": "http://scrollboss.illmosis.net/comicedits/sprite_ironman_armsatsides.gif"
+      },
+      {
+        "title": "Iron Man",
+        "src": "http://scrollboss.illmosis.net/comicedits/sprite_ironman_stand_classic4.gif"
+      },
+      {
+        "title": "Iron Man",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-capfgt_v4_fistraise.png"
+      },
+      {
+        "title": "Iron Man",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-capfgt_v4_issue126.png"
+      },
+      {
+        "title": "Iron Man",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-capfgt_l80s_supertech-nospark.png"
+      },
+      {
+        "title": "Iron Man",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-capfgt_supertech-mvsc3.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=lukecage-fgtsze",
+    "urlname": "lukecage",
+    "name": "Luke Cage (a.k.a. Power Man)",
+    "sprites": [
+      {
+        "title": "Luke Cage: 2016",
+        "src": "http://scrollboss.illmosis.net/comicedits/lukecage-fgtsze_70s80s_v1_palmfist1-forward.png"
+      },
+      {
+        "title": "Luke Cage: 2016",
+        "src": "http://scrollboss.illmosis.net/comicedits/lukecage-fgtsze_70s80s_v2_palmfist1-forward.png"
+      },
+      {
+        "title": "Luke Cage: 2016",
+        "src": "http://scrollboss.illmosis.net/comicedits/lukecage-fgtsze_70s80s_v3_palmfist1-forward.png"
+      },
+      {
+        "title": "Luke Cage: 2016",
+        "src": "http://scrollboss.illmosis.net/comicedits/lukecage-fgtsze_1992_palmfist1-forward.png"
+      },
+      {
+        "title": "Luke Cage: 2016",
+        "src": "http://scrollboss.illmosis.net/comicedits/lukecage-fgtsze_emh_palmfist1-forward.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=monicarambeau-fgtsze",
+    "urlname": "monicarambeau",
+    "name": "Monica Rambeau/Captain Marvel",
+    "sprites": [
+      {
+        "title": "Captain Marvel/Monica Rambeau: scratch-made 2021, pose after John Romita Sr. and Jr., Amazing Spider-Man Annual 16",
+        "src": "http://scrollboss.illmosis.net/comicedits/monicarambeau-fgtsze_cm1_stand-asmanual16p8.png"
+      },
+      {
+        "title": "Captain Marvel/Monica Rambeau: scratch-made 2021, pose after John Romita Sr. and Jr., Amazing Spider-Man Annual 16",
+        "src": "http://scrollboss.illmosis.net/comicedits/monicarambeau-fgtsze_cm1_stand-asmanual16p8-head4oclock.png"
+      },
+      {
+        "title": "Captain Marvel/Monica Rambeau: scratch-made 2015",
+        "src": "http://scrollboss.illmosis.net/comicedits/monicarambeau-fgtsze_cm1_normal_asmannual16stand.png"
+      },
+      {
+        "title": "Captain Marvel/Monica Rambeau: scratch-made 2015",
+        "src": "http://scrollboss.illmosis.net/comicedits/monicarambeau-fgtsze_cm1_light_asmannual16stand.png"
+      },
+      {
+        "title": "Captain Marvel/Monica Rambeau: scratch-made 2015",
+        "src": "http://scrollboss.illmosis.net/comicedits/monicarambeau-fgtsze_cm1_lightglow_asmannual16stand.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=mistyknight-fgtsze",
+    "urlname": "mistyknight",
+    "name": "Misty Knight",
+    "sprites": [
+      {
+        "title": "Misty Knight: 2020, 70s-80s",
+        "src": "http://scrollboss.illmosis.net/comicedits/mistyknight-fgtsze_classic_standcalm1-handships.png"
+      },
+      {
+        "title": "Misty Knight: 2020, 70s-80s",
+        "src": "http://scrollboss.illmosis.net/comicedits/mistyknight-fgtsze_classic_standcalm1-pistolup1.png"
+      },
+      {
+        "title": "Misty Knight: 2016, 70s-80s",
+        "src": "http://scrollboss.illmosis.net/comicedits/mistyknight-fgtsze_classic_blk-prp_pistolready1.png"
+      },
+      {
+        "title": "Misty Knight: 2016, 70s-80s",
+        "src": "http://scrollboss.illmosis.net/comicedits/mistyknight-fgtsze_classic_blk-blk_pistolready1.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=namor-fgtsze",
+    "urlname": "namor",
+    "name": "Namor",
+    "sprites": [
+      {
+        "title": "Namor the Sub-Mariner: 2018",
+        "src": "http://scrollboss.illmosis.net/comicedits/namor-fgtsze_classic_fgtstance-smarc.png"
+      },
+      {
+        "title": "Namor the Sub-Mariner: (base:SF3 Urien)",
+        "src": "http://scrollboss.illmosis.net/comicedits/namor-capfgt_trunks_fistraise.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=nickfury-fgtsze",
+    "urlname": "nickfury",
+    "name": "Nick Fury",
+    "sprites": [
+      {
+        "title": "Nick Fury: 2019, Punisher arcade fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/nickfury-fgtsze_classic_fgtstance-punarc.png"
+      },
+      {
+        "title": "Nick Fury: 2019, Punisher arcade fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/nickfury-fgtsze_punarc_fgtstance-punarc.png"
+      },
+      {
+        "title": "Nick Fury: 2019, Punisher arcade fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/nickfury-fgtsze_emh_fgtstance-punarc.png"
+      },
+      {
+        "title": "Nick Fury: (base:Cable)",
+        "src": "http://scrollboss.illmosis.net/comicedits/nickfury-capfgt_s-classic_pose1_bluewhite.png"
+      },
+      {
+        "title": "Nick Fury: (base:Cable)",
+        "src": "http://scrollboss.illmosis.net/comicedits/nickfury-capfgt_s-classic_pose1_blueorange.png"
+      },
+      {
+        "title": "Nick Fury: (base:Cable)",
+        "src": "http://scrollboss.illmosis.net/comicedits/nickfury-capfgt_pun-arc_pose1.png"
+      },
+      {
+        "title": "Nick Fury: (base:Cable)",
+        "src": "http://scrollboss.illmosis.net/comicedits/nickfury-capfgt_emh1_pose1.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=marvel&s=quicksilver-fgtsze",
+    "urlname": "",
+    "name": "Quicksilver",
+    "sprites": [
+      {
+        "title": "Quicksilver: (from scratch)",
+        "src": "http://scrollboss.illmosis.net/comicedits/quicksilver-capfgt_classic-v1-blue_wait.png"
+      },
+      {
+        "title": "Quicksilver: (from scratch)",
+        "src": "http://scrollboss.illmosis.net/comicedits/quicksilver-capfgt_classic-v1-green_wait.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=marvel&s=punisher-fgtsze",
+    "urlname": "",
+    "name": "the Punisher",
+    "sprites": [
+      {
+        "title": "the Punisher: Capcom '93 fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/punisher-fgtsze_classic_fgtstancecapcom93.png"
+      },
+      {
+        "title": "the Punisher: Capcom '93 fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/punisher-fgtsze_classic-capcom_fgtstancecapcom93.png"
+      },
+      {
+        "title": "the Punisher: (base:Cable)",
+        "src": "http://scrollboss.illmosis.net/comicedits/punisher-capfgt_classic_dubpistol.png"
+      },
+      {
+        "title": "the Punisher: (base:Cable)",
+        "src": "http://scrollboss.illmosis.net/comicedits/punisher-capfgt_classic-sh_dubpistol.png"
+      },
+      {
+        "title": "the Punisher: (base:Cable)",
+        "src": "http://scrollboss.illmosis.net/comicedits/punisher-capfgt_classic-hb_dubpistol.png"
+      },
+      {
+        "title": "the Punisher: (base: ???)",
+        "src": "http://scrollboss.illmosis.net/comicedits/punisher_beu_fjumpkick.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=scarletwitch-fgtsze",
+    "urlname": "scarletwitch",
+    "name": "Scarlet Witch",
+    "sprites": [
+      {
+        "title": "Scarlet Witch: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/scarletwitch-fgtsze_classic_1970_castpose01.png"
+      },
+      {
+        "title": "Scarlet Witch: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/scarletwitch-fgtsze_classic_1970_stand-calmforward_armsdown-headcamera.png"
+      },
+      {
+        "title": "Scarlet Witch: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/scarletwitch-fgtsze_classic_1970_stand-calmforward_armsdown-headcamera.png"
+      },
+      {
+        "title": "Scarlet Witch: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/scarletwitch-fgtsze_classic_1970_stand-calmforward_armsdown-headforward.png"
+      },
+      {
+        "title": "Scarlet Witch: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/scarletwitch-fgtsze_classic_1970_stand-calmaway_armsdown-headforward.png"
+      },
+      {
+        "title": "Scarlet Witch: 2015",
+        "src": "http://scrollboss.illmosis.net/comicedits/scarletwitch-fgtsze_posea-arms1.png"
+      },
+      {
+        "title": "Scarlet Witch: 2015",
+        "src": "http://scrollboss.illmosis.net/comicedits/scarletwitch-fgtsze_posea-capehold-lookcamera.png"
+      },
+      {
+        "title": "Scarlet Witch: (base: Chun-Li SFA)",
+        "src": "http://scrollboss.illmosis.net/comicedits/scarletwitch-capfgt_pose01.gif"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=shehulk-fgtsze",
+    "urlname": "shehulk",
+    "name": "She-Hulk",
+    "sprites": [
+      {
+        "title": "She-Hulk: 2016, MvsC3 pre-fight 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/shehulk-fgtsze_ff-mvc3_fstand-mvc3.png"
+      },
+      {
+        "title": "She-Hulk: 2016, MvsC3 pre-fight 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/shehulk-fgtsze_l80s_fstand-mvc3.png"
+      },
+      {
+        "title": "She-Hulk: 2016, MvsC3 pre-fight 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/shehulk-fgtsze_mvc3_fstand-mvc3.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=silversurfer-fgtsze",
+    "urlname": "silversurfer",
+    "name": "Silver Surfer",
+    "sprites": [
+      {
+        "title": "Silver Surfer: 2017, (after J.Kirby)",
+        "src": "http://scrollboss.illmosis.net/comicedits/silversurfer-fgtsze_afterkirby-gn-p62.png"
+      },
+      {
+        "title": "Silver Surfer: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/silversurfer-fgtsze_surf-3oclock-1.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=spiderman-fgtsze",
+    "urlname": "spiderman",
+    "name": "Spider-Man",
+    "sprites": [
+      {
+        "title": "Spider-Man: 2018, Sega arcade fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/spiderman-fgtsze_classic_fgtstance-segaarcade.png"
+      },
+      {
+        "title": "Spider-Man: black costume edit of Capcom sprite",
+        "src": "http://scrollboss.illmosis.net/comicedits/spidey-bw-capfgt_akimbo.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=spiderwoman-fgtsze",
+    "urlname": "spiderwoman",
+    "name": "Spider-Woman",
+    "sprites": [
+      {
+        "title": "Spider-Woman: 2020, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/spiderwoman-fgtsze_oriiginal_pose1.png"
+      },
+      {
+        "title": "Spider-Woman: (base: Psylocke)",
+        "src": "http://scrollboss.illmosis.net/comicedits/spiderwoman_glideforward_primeop.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=starlord-fgtsze",
+    "urlname": "starlord",
+    "name": "Star-Lord",
+    "sprites": [
+      {
+        "title": "Star-Lord: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/starlord-fgtsze_annihilators-red_dualblasters1.png"
+      },
+      {
+        "title": "Star-Lord: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/starlord-fgtsze_annihilators-wht_dualblasters1.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=thor-fgtsze",
+    "urlname": "thor",
+    "name": "The Mighty Thor",
+    "sprites": [
+      {
+        "title": "Thor: 2022 with 2023 adjustments",
+        "src": "http://scrollboss.illmosis.net/comicedits/thor-fgtsze_2023classic_mjolnirraise-a_frame01.png"
+      },
+      {
+        "title": "Thor: 2017 scratch-made, MvC Mjolnir raise pose, classic outfit",
+        "src": "http://scrollboss.illmosis.net/comicedits/thor-fgtsze_classic_mjolnirraise-mvc.png"
+      },
+      {
+        "title": "Thor: 2017 scratch-made, MvC Mjolnir raise pose, hammer back, classic outfit",
+        "src": "http://scrollboss.illmosis.net/comicedits/thor-fgtsze_classic_mjolnirraise-mvc-hammerback.png"
+      },
+      {
+        "title": "Thor: 2015 scratch-made, MvC3 stance, classic outfit",
+        "src": "http://scrollboss.illmosis.net/comicedits/thor-fgtsze_classic_stand-mvsc3_lowcolor.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=vision-fgtsze",
+    "urlname": "vision",
+    "name": "Vision",
+    "sprites": [
+      {
+        "title": "the Vision: 2017, classic, hover (scratch-made)",
+        "src": "http://scrollboss.illmosis.net/comicedits/vision-fgtsze_classic_floatup-headforward-cape1.png"
+      },
+      {
+        "title": "the Vision: originally sprited 2017?, edited 2022, arms crossed after John Buscema Avengers corner box art",
+        "src": "http://scrollboss.illmosis.net/comicedits/vision-fgtsze_classic_armscrossed.png"
+      },
+      {
+        "title": "the Vision: originally sprited 201?, edited 2022, rebooted, arms crossed after John Buscema Avengers corner box art",
+        "src": "http://scrollboss.illmosis.net/comicedits/vision-fgtsze_90swhite_armscrossed.png"
+      },
+      {
+        "title": "the Vision: originally sprited 201?, edited 2023, rebooted, arms crossed",
+        "src": "http://scrollboss.illmosis.net/comicedits/vision-fgtsze_90swhite_idle-caata.png"
+      },
+      {
+        "title": "the Vision: (base: Cyclops) Avengers 57 cover,  head 2",
+        "src": "http://scrollboss.illmosis.net/comicedits/vision-capfgt_classic_av57pose.png"
+      },
+      {
+        "title": "the Vision: (base: Cyclops) West Coast Avengers 45, head 2",
+        "src": "http://scrollboss.illmosis.net/comicedits/vision-capfgt_1989_av57pose.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=wasp-fgtsze",
+    "urlname": "wasp",
+    "name": "Wasp",
+    "sprites": [
+      {
+        "title": "Wasp",
+        "src": "http://scrollboss.illmosis.net/comicedits/wasp-fgtsze_avengers1_akimbo1.png"
+      },
+      {
+        "title": "Wasp",
+        "src": "http://scrollboss.illmosis.net/comicedits/wasp-fgtsze_avengers2_akimbo1.png"
+      },
+      {
+        "title": "Wasp",
+        "src": "http://scrollboss.illmosis.net/comicedits/wasp-fgtsze_l80e90_akimbo1.png"
+      },
+      {
+        "title": "Wasp",
+        "src": "http://scrollboss.illmosis.net/comicedits/wasp-capfgt_original1_stingthreat.png"
+      },
+      {
+        "title": "Wasp",
+        "src": "http://scrollboss.illmosis.net/comicedits/wasp-capfgt_original2_stingthreat.png"
+      },
+      {
+        "title": "Wasp",
+        "src": "http://scrollboss.illmosis.net/comicedits/wasp-capfgt_l80e90_stingthreat-lit.png"
+      },
+      {
+        "title": "Wasp",
+        "src": "http://scrollboss.illmosis.net/comicedits/wasp-capfgt_mid2ks_stingthreat.png"
+      },
+      {
+        "title": "Wasp",
+        "src": "http://scrollboss.illmosis.net/comicedits/wasp-capfgt_emh_stingthreat-lit.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=warmachine-fgtsze",
+    "urlname": "warmachine",
+    "name": "War Machine",
+    "sprites": [
+      {
+        "title": "War Machine: scratch-made 2020, classic, 'Superior Tech!'",
+        "src": "http://scrollboss.illmosis.net/comicedits/warmachine-fgtsze_classic_win-superiortechfist.png"
+      },
+      {
+        "title": "War Machine: scratch-made 2020, MvC, 'Superior Tech!'",
+        "src": "http://scrollboss.illmosis.net/comicedits/warmachine-fgtsze_classic-mvc_win-superiortechfist.png"
+      },
+      {
+        "title": "War Machine: scratch-made 2017, alternate angle of War Machine #1 cover",
+        "src": "http://scrollboss.illmosis.net/comicedits/warmachine-fgtsze_classic_ready.png"
+      },
+      {
+        "title": "War Machine: (base: MvsC War Machine)",
+        "src": "http://scrollboss.illmosis.net/comicedits/warmachine-capfgt_c2_fistraise.png"
+      },
+      {
+        "title": "War Machine: (base: MvsC War Machine)",
+        "src": "http://scrollboss.illmosis.net/comicedits/warmachine-capfgt_c2_fistraise-addtech.png"
+      },
+      {
+        "title": "War Machine: (base: MvsC War Machine)",
+        "src": "http://scrollboss.illmosis.net/comicedits/warmachine-capfgt_mvsc1_fistraise.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=wonderman-fgtsze",
+    "urlname": "wonderman",
+    "name": "Wonder Man",
+    "sprites": [
+      {
+        "title": "Wonder Man: scratch-made 2015, Avengers #9 cover pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/wonderman-fgtsze_wcaera_avengers9cover_sideslight.png"
+      },
+      {
+        "title": "Wonder Man: scratch-made 2015, Avengers #9 cover pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/wonderman-fgtsze_v1_avengers9cover_sideslight.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=humantorch-fgtsze",
+    "urlname": "humantorch",
+    "name": "Human Torch",
+    "sprites": [
+      {
+        "title": "Human Torch: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/humantorch-fgtsze_flameclassic_hover1.png"
+      },
+      {
+        "title": "Human Torch: 2010",
+        "src": "http://scrollboss.illmosis.net/comicedits/humantorch-capfgt_classic-off_flameonpose.png"
+      },
+      {
+        "title": "Human Torch: 2010",
+        "src": "http://scrollboss.illmosis.net/comicedits/humantorch-capfgt_on-v1_flameonpose.png"
+      },
+      {
+        "title": "Human Torch: 2010",
+        "src": "http://scrollboss.illmosis.net/comicedits/humantorch-capfgt_on-all_flameonpose.png"
+      },
+      {
+        "title": "Human Torch: 2002",
+        "src": "http://scrollboss.illmosis.net/comicedits/humantorch-capfgt_jstormstand_2002.gif"
+      },
+      {
+        "title": "Human Torch: 2002",
+        "src": "http://scrollboss.illmosis.net/comicedits/humantorch-capfgt_armsup01_2002.gif"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=invisiblewoman-fgtsze",
+    "urlname": "invisiblewoman",
+    "name": "Invisible Woman/Invisible Girl",
+    "sprites": [
+      {
+        "title": "Invisible Woman: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/invisiblewoman-fgtsze_classic_readypose1.png"
+      },
+      {
+        "title": "Invisible Woman: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/invisiblewoman-fgtsze_classic-invis_readypose1.png"
+      },
+      {
+        "title": "Invisible Woman: 2010",
+        "src": "http://scrollboss.illmosis.net/comicedits/invisiblewoman_classic-lhair_actionpose1.png"
+      },
+      {
+        "title": "Invisible Woman: 2010",
+        "src": "http://scrollboss.illmosis.net/comicedits/invisiblewoman_classic-lhair_actionpose1-invis.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=mrfantastic-fgtsze",
+    "urlname": "mrfantastic",
+    "name": "Mr. Fantastic",
+    "sprites": [
+      {
+        "title": "Mr. Fantastic: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/mrfantastic-fgtsze_classic_fgtstance-stretch.png"
+      },
+      {
+        "title": "Mr. Fantastic: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/mrfantastic-fgtsze_bw_fgtstance-stretch.png"
+      },
+      {
+        "title": "Mr. Fantastic: 2010",
+        "src": "http://scrollboss.illmosis.net/comicedits/mrfantastic_classic_thinking.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=thing-fgtsze",
+    "urlname": "thing",
+    "name": "The Thing",
+    "sprites": [
+      {
+        "title": "The Thing: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/thing-fgtsze_bw_punchpalm.png"
+      },
+      {
+        "title": "The Thing: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/thing-fgtsze_classic_punchpalm.png"
+      },
+      {
+        "title": "The Thing",
+        "src": "http://scrollboss.illmosis.net/comicedits/thing-capfgt_classic_fistcup-angry.png"
+      },
+      {
+        "title": "The Thing: 2002",
+        "src": "http://scrollboss.illmosis.net/comicedits/thing-fgtsze_fightstance2002.gif"
+      },
+      {
+        "title": "The Thing: 2001",
+        "src": "http://scrollboss.illmosis.net/comicedits/thing-fgtsze_fightstance2001.gif"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=beast-fgtsze",
+    "urlname": "beast",
+    "name": "Beast",
+    "sprites": [
+      {
+        "title": "charname: 2018",
+        "src": "http://scrollboss.illmosis.net/comicedits/beast-fgtsze_90s_crouch1.png"
+      },
+      {
+        "title": "Beast: (bases: Blanka, Zangief)",
+        "src": "http://scrollboss.illmosis.net/comicedits/beast_xmen1lee.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=cyclops-fgtsze",
+    "urlname": "cyclops",
+    "name": "Cyclops",
+    "sprites": [
+      {
+        "title": "Cyclops: 2017, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/cyclops-fgtsze_classic_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Cyclops: (base: Cyclops)",
+        "src": "http://scrollboss.illmosis.net/comicedits/cyclops_v1_introstand-yelboots.png"
+      },
+      {
+        "title": "Cyclops: (base: Cyclops)",
+        "src": "http://scrollboss.illmosis.net/comicedits/cyclops_v1_introstand-ybboots.png"
+      },
+      {
+        "title": "Cyclops: (base: Cyclops) Jim Lee X-Men #1 tribute",
+        "src": "http://scrollboss.illmosis.net/comicedits/cyclops-capfgt_xmen1lee.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=jeangrey-fgtsze",
+    "urlname": "jeangrey",
+    "name": "Jean Grey/Phoenix",
+    "sprites": [
+      {
+        "title": "Jean Grey",
+        "src": "http://scrollboss.illmosis.net/comicedits/jeangrey-fgtsze_phoenixclassic_mvc3stand.png"
+      },
+      {
+        "title": "Jean Grey",
+        "src": "http://scrollboss.illmosis.net/comicedits/jeangrey-fgtsze_darkphoenixclassic_mvc3stand.png"
+      },
+      {
+        "title": "Jean Grey",
+        "src": "http://scrollboss.illmosis.net/comicedits/jeangrey-fgtsze_e90s_mvc3stand.png"
+      },
+      {
+        "title": "Jean Grey",
+        "src": "http://scrollboss.illmosis.net/comicedits/jeangrey-fgtsze_e90s-capcomlike_mvc3stand.png"
+      },
+      {
+        "title": "Phoenix",
+        "src": "http://scrollboss.illmosis.net/comicedits/phoenix-capfgt_hover1.png"
+      },
+      {
+        "title": "Jean Grey",
+        "src": "http://scrollboss.illmosis.net/comicedits/jeangrey_xmen1lee_noaura.png"
+      },
+      {
+        "title": "Jean Grey",
+        "src": "http://scrollboss.illmosis.net/comicedits/jeangrey_90s_hoveranim1.gif"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=colossus-fgtsze",
+    "urlname": "colossus",
+    "name": "Colossus",
+    "sprites": [
+      {
+        "title": "Colossus: 2017, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/colossus-fgtsze_classic_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Colossus: (base: Colossus) NES X-Men",
+        "src": "http://scrollboss.illmosis.net/comicedits/colossus-capfgt_nes_calmwin.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=storm-fgtsze",
+    "urlname": "storm",
+    "name": "Storm",
+    "sprites": [
+      {
+        "title": "Storm: 2024, Konami arcade idle pose, original outfit",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_classic_konamistand2024.png"
+      },
+      {
+        "title": "Storm: 2024, Konami arcade idle pose, original outfit",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_classic_konamistand2024-nostaff.png"
+      },
+      {
+        "title": "Storm: 2024, Konami arcade idle pose, Uncanny X-Men #170",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_classic-uxm170_konamistand2024.png"
+      },
+      {
+        "title": "Storm: 2024, Konami arcade idle pose, 'punk' outfit",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_mohawk_konamistand2024.png"
+      },
+      {
+        "title": "Storm: 2016, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_classic_konamistance.png"
+      },
+      {
+        "title": "Storm: 2016, Konami arcade pose, with weapon",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_classic_konamistance-withstaff.png"
+      },
+      {
+        "title": "Storm: 2021, Capcom CPS2 sprites arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_classic_fgtstance-cotaremake.png"
+      },
+      {
+        "title": "Storm: 2017, Konami arcade pose, flying down",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_classic_jumpdown-konami-print.png"
+      },
+      {
+        "title": "Storm: 2016, Konami arcade pose, with weapon",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_classic_80spunk_konamistance.png"
+      },
+      {
+        "title": "Storm: 2021, Capcom CPS2 sprites arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_1988_fgtstance-cotaremake.png"
+      },
+      {
+        "title": "Storm: Scratch-made sprite based on Paul Smith's art of Storm' for Marvel Universe D.E. #12, made to make Capcom's Storm sprites",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-capfgt_punk_mupaulsmith.png"
+      },
+      {
+        "title": "Storm: (base: Capcom's Storm sprites)",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm_v1_idle-mod.gif"
+      },
+      {
+        "title": "Storm: (base: Storm) X-Men #1 tribute",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm_xmen1lee.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=wolverine-fgtsze",
+    "urlname": "wolverine",
+    "name": "Wolverine",
+    "sprites": [
+      {
+        "title": "Wolverine: 2017 - updated 2020, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/wolverine-fgtsze_ornbrn_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Wolverine: 2020, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/wolverine-fgtsze_weaponxdevhelmet_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Wolverine: 2020, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/wolverine-fgtsze_1stmask_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Wolverine: 2020, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/wolverine-fgtsze_fang_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Wolverine: 2020, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/wolverine-fgtsze_nes_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Wolverine: (base: Wolverine) X-Men #1 tribute",
+        "src": "http://scrollboss.illmosis.net/comicedits/wolverine_xmen1lee.png"
+      },
+      {
+        "title": "Wolverine",
+        "src": "http://scrollboss.illmosis.net/comicedits/wolverine_orn-brn_leap.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=nightcrawler-fgtsze",
+    "urlname": "nightcrawler",
+    "name": "Nightcrawler",
+    "sprites": [
+      {
+        "title": "Nightcrawler: 2014, original outfit, Konami pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/nightcrawler-fgtsze_classic_stand-konhybrid.png"
+      },
+      {
+        "title": "Nightcrawler: 2014, X-Men NES, Konami pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/nightcrawler-fgtsze_nes_stand-konhybrid.png"
+      },
+      {
+        "title": "Nightcrawler: 2020, original outfit, teleport",
+        "src": "http://scrollboss.illmosis.net/comicedits/nightcrawler-fgtsze_classic_teleport1.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=dazzler-fgtsze",
+    "urlname": "dazzler",
+    "name": "Dazzler",
+    "sprites": [
+      {
+        "title": "Dazzler: 2016, Konami arcade fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/dazzler-fgtsze_80s90s_m80s_konamiarcadestance.png"
+      },
+      {
+        "title": "Dazzler: 2016, Konami arcade fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/dazzler-fgtsze_potx_konamiarcadestance.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=angelarchangel-fgtsze",
+    "urlname": "angelarchangel",
+    "name": "Angel - Archangel",
+    "sprites": [
+      {
+        "title": "Archangel: 2021, hover 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/archangel-fgtsze_v1hood_hover1.png"
+      },
+      {
+        "title": "Archangel: (base:Cyclops)",
+        "src": "http://scrollboss.illmosis.net/comicedits/archangel_flyforward.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=rogue-fgtsze",
+    "urlname": "rogue",
+    "name": "Rogue",
+    "sprites": [
+      {
+        "title": "Rogue: 2021, hover 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/rogue-fgtsze_late80s_hover1.png"
+      },
+      {
+        "title": "Rogue: (base: Rogue XMvsSF) X-Men #1 cover, after Jim Lee",
+        "src": "http://scrollboss.illmosis.net/comicedits/rogue_xmen1lee.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=havok-fgtsze",
+    "urlname": "havok",
+    "name": "Havok",
+    "sprites": [
+      {
+        "title": "Havok: 2021, charge 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/havok-fgtsze_v1_pose01-ringsflat-display1.png"
+      },
+      {
+        "title": "Havok: (base: Cyclops)",
+        "src": "http://scrollboss.illmosis.net/comicedits/havok_v1_stand_powered.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=professorxavier-fgtsze",
+    "urlname": "professorxavier",
+    "name": "Professor Charles Xavier",
+    "sprites": [
+      {
+        "title": "Professor Charles Xavier: 2021, hoverchair",
+        "src": "http://scrollboss.illmosis.net/comicedits/professorx-fgtsze_jlhoverchair-suitgreen_pose1.png"
+      },
+      {
+        "title": "Professor Charles Xavier: (base:Professor X sprite from X-Men CotA endings)",
+        "src": "http://scrollboss.illmosis.net/comicedits/profx_xmen1lee.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=psylocke-fgtsze",
+    "urlname": "psylocke",
+    "name": "Psylocke",
+    "sprites": [
+      {
+        "title": "Psylocke: 2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/psylocke-fgtsze_training_pose1.png"
+      },
+      {
+        "title": "Psylocke: 2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/psylocke-fgtsze_training_pose1-psyblades.png"
+      },
+      {
+        "title": "Psylocke",
+        "src": "http://scrollboss.illmosis.net/comicedits/psylocke_xmen1lee.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=x23-fgtsze",
+    "urlname": "x23",
+    "name": "X-23",
+    "sprites": [
+      {
+        "title": "X-23: 2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/x23-fgtsze_mvc3_fgtstance-mvc3.png"
+      },
+      {
+        "title": "X-23: edit (base: Marrow?)",
+        "src": "http://scrollboss.illmosis.net/comicedits/x23-capfgt_mvsc3_stand1-v1.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=avengers-fgtsze",
+    "urlname": "avengers",
+    "name": "Avengers",
+    "sprites": [
+      {
+        "title": "the Avengers: 2021, Avengers #1",
+        "src": "http://scrollboss.illmosis.net/comicedits/avengers-fgtsze_issue1team_v1.png"
+      },
+      {
+        "title": "the Avengers: 2001 (base: all from Capcom games) Founding five members",
+        "src": "http://scrollboss.illmosis.net/comicedits/spritegroup_avengers_team1.gif"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=xmen-fgtsze",
+    "urlname": "xmen",
+    "name": "X-Men",
+    "sprites": [
+      {
+        "title": "X-Men: 2021, Konami playable squad 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/xmen-fgtsze_konami_center1.png"
+      },
+      {
+        "title": "X-Men NES: 2014 (base: all from Capcom games except for Nightcrawler, who was scratch-made) Uncanny X-Men NES uniforms",
+        "src": "http://scrollboss.illmosis.net/comicedits/xmen-capfgt_nesgroupsprite.png"
+      },
+      {
+        "title": "Jim Lee's X-Men #1 - Click to see full-size",
+        "src": "http://scrollboss.illmosis.net/comicedits/xmen_jimleexmen1_sunset_2007edits_75percent.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=absorbingman-fgtsze",
+    "urlname": "absorbingman",
+    "name": "Absorbing Man",
+    "sprites": [
+      {
+        "title": "Absorbing Man",
+        "src": "http://scrollboss.illmosis.net/comicedits/absorbingman-fgtsze_classic_normal_stand1.png"
+      },
+      {
+        "title": "Absorbing Man",
+        "src": "http://scrollboss.illmosis.net/comicedits/absorbingman-fgtsze_classic_bluesteel_stand1.png"
+      },
+      {
+        "title": "Absorbing Man",
+        "src": "http://scrollboss.illmosis.net/comicedits/absorbingman-capfgt_stand2001.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=baronzemo-fgtsze",
+    "urlname": "baronzemo",
+    "name": "Baron Zemo",
+    "sprites": [
+      {
+        "title": "Baron Zemo: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/baronzemo-fgtsze_classic_wintaunt-a_fist-lookforward.png"
+      },
+      {
+        "title": "Baron Zemo: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/baronzemo-fgtsze_classic_wintaunt-a_fist-lookcamera.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=batroc-fgtsze",
+    "urlname": "batroc",
+    "name": "Batroc the Leaper",
+    "sprites": [
+      {
+        "title": "Batroc the Leaper: 2021, classic, stance 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/batroc-fgtsze_classic_stance1.png"
+      },
+      {
+        "title": "Batroc the Leaper: (base: Cyclops)",
+        "src": "http://scrollboss.illmosis.net/comicedits/sprite_batroc_stand.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=boomerang-fgtsze",
+    "urlname": "boomerang",
+    "name": "Boomerang",
+    "sprites": [
+      {
+        "title": "Boomerang: (2014) 80s",
+        "src": "http://scrollboss.illmosis.net/comicedits/boomerang-fgtsze_80s_fstand.png"
+      },
+      {
+        "title": "Boomerang: 2014) Uncanny X-Men (NES)",
+        "src": "http://scrollboss.illmosis.net/comicedits/boomerang-fgtsze_NES_fstand.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=crossbones-fgtsze",
+    "urlname": "crossbones",
+    "name": "Crossbones",
+    "sprites": [
+      {
+        "title": "Crossbones: 2021, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/crossbones-fgtsze_classic-brn_knifestance1.png"
+      },
+      {
+        "title": "Crossbones: 2021, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/crossbones-fgtsze_classic-grn_knifestance1.png"
+      },
+      {
+        "title": "Crossbones: (base: ?)",
+        "src": "http://scrollboss.illmosis.net/comicedits/crossbones_brngear_stand.png"
+      },
+      {
+        "title": "Crossbones: (base: ?)",
+        "src": "http://scrollboss.illmosis.net/comicedits/crossbones_grngear_stand.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=controllers-fgtsze",
+    "urlname": "controllers",
+    "name": "the Controller",
+    "sprites": [
+      {
+        "title": "the Controller: 2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/controller-marvel-fgtsze_classic_fgtstance-caata.png"
+      },
+      {
+        "title": "the Controller: (base: Thanos)",
+        "src": "http://scrollboss.illmosis.net/comicedits/controller_stand.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=doctordoom-fgtsze",
+    "urlname": "doctordoom",
+    "name": "Doctor Doom",
+    "sprites": [
+      {
+        "title": "Doctor Doom",
+        "src": "http://scrollboss.illmosis.net/comicedits/drdoom-fgtsze_sw84_fgtstance.png"
+      },
+      {
+        "title": "Doctor Doom",
+        "src": "http://scrollboss.illmosis.net/comicedits/doctordoom-capfgt_edit_teleporttest.gif"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=grimreaper-fgtsze",
+    "urlname": "grimreaper",
+    "name": "Grim Reaper",
+    "sprites": [
+      {
+        "title": "2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/grimreaper-fgtszet_classic_caatapose1.png"
+      },
+      {
+        "title": "Grim Reaper: 2011 (base: Cyclops)",
+        "src": "http://scrollboss.illmosis.net/comicedits/grimreaper-marvel-capfgt_stand-caatapose_faceleft.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=hyperion-fgtsze",
+    "urlname": "hyperion",
+    "name": "Marvel heroesMarvel VillainsC4ncelComic Book galleries hub",
+    "sprites": [
+      {
+        "title": "Black Cat",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackcat-marvel-fgtsze_classic_fgtstance-sm91.png"
+      },
+      {
+        "title": "the Black Knight: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackknightmarvel-fgtsze_dane-classic_stand01-ebonybladeheld1.png"
+      },
+      {
+        "title": "Black Panther: 2018",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther-fgtsze_classic-cape_calmstand1.png"
+      },
+      {
+        "title": "Black Widow: 2015 from scratch",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow-fgtsze_classic-blkgold_wintaunt-stingup1.png"
+      },
+      {
+        "title": "Captain America: 2017, updated 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/captamerica-fgtsze_classic_stand1-lshoulderf-shieldleft-lookleft.png"
+      },
+      {
+        "title": "Captain Marvel, Danvers: 2017 scratch-made, Marvel vs. Capcom: Infinite stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/captmarveldanvers-fgtsze_v2_blue-red_fgtstance-mvci.png"
+      },
+      {
+        "title": "Daredevil: 2024",
+        "src": "http://scrollboss.illmosis.net/comicedits/daredevil-fgtsze_classic_calmstand-headforward-w1strap.png"
+      },
+      {
+        "title": "Deadpool: 2017, MvC3 taunt",
+        "src": "http://scrollboss.illmosis.net/comicedits/deadpool-fgtsze_mvc3_taunt-mvc3.png"
+      },
+      {
+        "title": "Doctor Strange: 2022, UMvC3 fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/doctorstrange-fgtsze_classic_idle-umvc3.png"
+      },
+      {
+        "title": "the Dora Mijale",
+        "src": "http://scrollboss.illmosis.net/comicedits/doramilaje-fgtsze_98battle_bald_guard-spear.png"
+      },
+      {
+        "title": "the Falcon: 2015?",
+        "src": "http://scrollboss.illmosis.net/comicedits/falcon-fgtsze_classic_flyback.png"
+      },
+      {
+        "title": "Firestar: 2020-2021, classic, hover",
+        "src": "http://scrollboss.illmosis.net/comicedits/firestar-fgtsze_classic_hover1.png"
+      },
+      {
+        "title": "Ghost Rider",
+        "src": "http://scrollboss.illmosis.net/comicedits/ghostrider-fgtsze_ketch_fgtstance-mvc3.png"
+      },
+      {
+        "title": "Groot: after Tales to Astonish 13, page 1 by Jack Kirby",
+        "src": "http://scrollboss.illmosis.net/comicedits/groot-fgtsze_bigbare_tta13p1.png"
+      },
+      {
+        "title": "Ant-Man: size change pose, 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/antman-fgtsze_pym60s_normal_stand-sizechange.png"
+      },
+      {
+        "title": "Hawkeye: 2018, fight stance from Captain America and the Avengers",
+        "src": "http://scrollboss.illmosis.net/comicedits/hawkeye-fgtsze_classic2_fgtstance-caata.png"
+      },
+      {
+        "title": "Iron Fist: 2016",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironfist-fgtsze_classic-grn_calmstand1.png"
+      },
+      {
+        "title": "Iron Man (custom pose)",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_neoclassic_win-superiortechfist.png"
+      },
+      {
+        "title": "Luke Cage: 2016",
+        "src": "http://scrollboss.illmosis.net/comicedits/lukecage-fgtsze_emh_palmfist1-forward.png"
+      },
+      {
+        "title": "Captain Marvel/Monica Rambeau: scratch-made 2015",
+        "src": "http://scrollboss.illmosis.net/comicedits/monicarambeau-fgtsze_cm1_stand-asmanual16p8-head4oclock.png"
+      },
+      {
+        "title": "Misty Knight: 70s-80s",
+        "src": "http://scrollboss.illmosis.net/comicedits/mistyknight-fgtsze_classic_standcalm1-handships.png"
+      },
+      {
+        "title": "Namor the Sub-Mariner: 2018, Spider-Man the Arcade Game fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/namor-fgtsze_classic_fgtstance-smarc.png"
+      },
+      {
+        "title": "Nick Fury: 2019, Punisher arcade fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/nickfury-fgtsze_punarc_fgtstance-punarc.png"
+      },
+      {
+        "title": "Quicksilver: 2012 from scratch",
+        "src": "http://scrollboss.illmosis.net/comicedits/quicksilver-capfgt_classic-v1-blue_wait.png"
+      },
+      {
+        "title": "the Punisher: Capcom '93 fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/punisher-fgtsze_classic_fgtstancecapcom93.png"
+      },
+      {
+        "title": "Scarlet Witch: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/scarletwitch-fgtsze_classic_1970_castpose01.png"
+      },
+      {
+        "title": "She-Hulk: 2016, MvsC3 pre-fight 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/shehulk-fgtsze_mvc3_fstand-mvc3.png"
+      },
+      {
+        "title": "Silver Surfer: 2017, (after J.Kirby)",
+        "src": "http://scrollboss.illmosis.net/comicedits/silversurfer-fgtsze_afterkirby-gn-p62.png"
+      },
+      {
+        "title": "Spider-Man: 2020, Sega arcade fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/spiderman-fgtsze_classic_fgtstance-segaarc2020.png"
+      },
+      {
+        "title": "Spider-Woman: 2020, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/spiderwoman-fgtsze_oriiginal_pose1.png"
+      },
+      {
+        "title": "Star-Lord: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/starlord-fgtsze_annihilators-red_dualblasters1.png"
+      },
+      {
+        "title": "Thor: 2022 with 2023 adjustments",
+        "src": "http://scrollboss.illmosis.net/comicedits/thor-fgtsze_2023classic_mjolnirraise-a_frame01.png"
+      },
+      {
+        "title": "the Vision: 2017 hover (scratch-made)",
+        "src": "http://scrollboss.illmosis.net/comicedits/vision-fgtsze_classic_floatup-headforward-cape1.png"
+      },
+      {
+        "title": "Wasp",
+        "src": "http://scrollboss.illmosis.net/comicedits/wasp-fgtsze_l80e90_akimbo1.png"
+      },
+      {
+        "title": "War Machine: alternate angle of War Machine #1 cover",
+        "src": "http://scrollboss.illmosis.net/comicedits/warmachine-fgtsze_classic_ready.png"
+      },
+      {
+        "title": "Wonder Man: scratch-made 2015",
+        "src": "http://scrollboss.illmosis.net/comicedits/wonderman-fgtsze_wcaera_avengers9cover_sideslight.png"
+      },
+      {
+        "title": "Human Torch: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/humantorch-fgtsze_flameclassic_hover1.png"
+      },
+      {
+        "title": "Invisible Woman: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/invisiblewoman-fgtsze_classic_readypose1.png"
+      },
+      {
+        "title": "Mr. Fantastic: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/mrfantastic-fgtsze_classic_fgtstance-stretch.png"
+      },
+      {
+        "title": "The Thing: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/thing-fgtsze_classic_punchpalm.png"
+      },
+      {
+        "title": "charname: 2018",
+        "src": "http://scrollboss.illmosis.net/comicedits/beast-fgtsze_90s_crouch1.png"
+      },
+      {
+        "title": "Cyclops: 2017, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/cyclops-fgtsze_classic_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Jean Grey: 2017, MvC3 fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/jeangrey-fgtsze_phoenixclassic_mvc3stand.png"
+      },
+      {
+        "title": "Colossus: 2017, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/colossus-fgtsze_classic_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Storm: 2016, Konami arcade pose6",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_classic_konamistand2024.png"
+      },
+      {
+        "title": "Wolverine: 2017, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/wolverine-fgtsze_ornbrn_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Nightcrawler: 2020, original outfit, teleport",
+        "src": "http://scrollboss.illmosis.net/comicedits/nightcrawler-fgtsze_classic_teleport1.png"
+      },
+      {
+        "title": "Dazzler: 2016, Konami arcade fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/dazzler-fgtsze_potx_konamiarcadestance.png"
+      },
+      {
+        "title": "Archangel: 2021, hover 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/archangel-fgtsze_v1hood_hover1.png"
+      },
+      {
+        "title": "Rogue: 2021, hover 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/rogue-fgtsze_late80s_hover1.png"
+      },
+      {
+        "title": "Havok: 2021, charge 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/havok-fgtsze_v1_pose01-ringsflat-display1.png"
+      },
+      {
+        "title": "Professor Charles Xavier: 2021, hoverchair",
+        "src": "http://scrollboss.illmosis.net/comicedits/professorx-fgtsze_jlhoverchair-suitgreen_pose1.png"
+      },
+      {
+        "title": "Psylocke: 2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/psylocke-fgtsze_training_pose1-psyblades.png"
+      },
+      {
+        "title": "X-23: 2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/x23-fgtsze_mvc3_fgtstance-mvc3.png"
+      },
+      {
+        "title": "Bishop",
+        "src": "http://scrollboss.illmosis.net/comicedits/bishoplucas-fgtsze_original_pose1.png"
+      },
+      {
+        "title": "Diamondback",
+        "src": "http://scrollboss.illmosis.net/comicedits/diamondback_v1_showoff1.png"
+      },
+      {
+        "title": "Hulk: scratch-made, classic Buscema-ish",
+        "src": "http://scrollboss.illmosis.net/comicedits/hulk-capfgt_scratchmade_savage_pose1.png"
+      },
+      {
+        "title": "Medusa: 2017, classic outfit",
+        "src": "http://scrollboss.illmosis.net/comicedits/medusa-marvel-fgtsze_classic_stand1.png"
+      },
+      {
+        "title": "Mockingbird: 2018, based on Kimberly Root pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/mockingbird_kimbrootcosplay_stance-kimbroot.png"
+      },
+      {
+        "title": "Moon Knight: 2017, e90s - vol.1 issue 1 cover side view",
+        "src": "http://scrollboss.illmosis.net/comicedits/moonknight-fgtsze_classic_mkvol1i1coverside.png"
+      },
+      {
+        "title": "Rocket Raccoon: (from scratch) GotG uniform",
+        "src": "http://scrollboss.illmosis.net/comicedits/rocketraccoon-capfgt_gotg-bluered_pose1.png"
+      },
+      {
+        "title": "Goliath/Bill Foster: (from scratch)",
+        "src": "http://scrollboss.illmosis.net/comicedits/goliath-billfoster_whtbluegold70s_giantstand1.png"
+      },
+      {
+        "title": "Shadowcat Kitty Pryde: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/kittypryde-fgtsze_shadowcat90s_careful01.png"
+      },
+      {
+        "title": "the Avengers: 2021, Avengers #1",
+        "src": "http://scrollboss.illmosis.net/comicedits/avengers-fgtsze_issue1team_v1.png"
+      },
+      {
+        "title": "X-Men: 2021, Konami playable squad 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/xmen-fgtsze_konami_center1.png"
+      },
+      {
+        "title": "Absorbing Man: 2015 scratch-made",
+        "src": "http://scrollboss.illmosis.net/comicedits/absorbingman-fgtsze_classic_normal_stand1.png"
+      },
+      {
+        "title": "Baron Zemo: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/baronzemo-fgtsze_classic_wintaunt-a_fist-lookforward.png"
+      },
+      {
+        "title": "Batroc the Leaper: 2021, classic, stance 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/batroc-fgtsze_classic_stance1.png"
+      },
+      {
+        "title": "Boomerang: (2014) 80s",
+        "src": "http://scrollboss.illmosis.net/comicedits/boomerang-fgtsze_80s_fstand.png"
+      },
+      {
+        "title": "Crossbones: 2021, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/crossbones-fgtsze_classic-brn_knifestance1.png"
+      },
+      {
+        "title": "the Controller: 2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/controller-marvel-fgtsze_classic_fgtstance-caata.png"
+      },
+      {
+        "title": "Doctor Doom",
+        "src": "http://scrollboss.illmosis.net/comicedits/drdoom-fgtsze_sw84_fgtstance.png"
+      },
+      {
+        "title": "2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/grimreaper-fgtszet_classic_caatapose1.png"
+      },
+      {
+        "title": "Hyperion",
+        "src": "http://scrollboss.illmosis.net/comicedits/hyperion-marvel-fgtsze_classic-unmasked_smbattlehover.png"
+      },
+      {
+        "title": "the Kingpin: 2019, Punisher stance recreated",
+        "src": "http://scrollboss.illmosis.net/comicedits/kingpin-fgtsze_classic-unbutton_whtwht_idle-punisherarc.png"
+      },
+      {
+        "title": "Klaw: 2018, classic, CAatA fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/klaw-fgtsze_classic_faceleft_fgtstance-av91.png"
+      },
+      {
+        "title": "Loki: 2012 (from scratch) classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/loki-capfgt_classic_armsfolded-serious.png"
+      },
+      {
+        "title": "2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/livinglaser-fgtsze_classic_chargepose1.png"
+      },
+      {
+        "title": "Nebula: (from scratch) 90s cyborg, MSH War of the Gems stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/nebula-fgtsze_cyborg_wotg_stand.png"
+      },
+      {
+        "title": "Nightshade: 2018, original outfit",
+        "src": "http://scrollboss.illmosis.net/comicedits/nightshade-marvel-fgtsze_v1_taunt1.png"
+      },
+      {
+        "title": "Sentinel: Mk. V mini (Konami arcade), Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/sentinel-marvel-fgtsze_mkvmini_purpleviolet_stand-konarc.png"
+      },
+      {
+        "title": "Super-Skrull",
+        "src": "http://scrollboss.illmosis.net/comicedits/superskrull-fgtsze_classic_pose1_all4-v1.png"
+      },
+      {
+        "title": "Taskmaster: 2018, scratch-made, Marvel vs. Capcom 3 stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/taskmaster-fgtsze_classic_fgtstance-mvc3.png"
+      },
+      {
+        "title": "Titania: 2015, scratch-made, fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/titania-fgtsze_mary80s_stand1.png"
+      },
+      {
+        "title": "Ultron: scratch-made, based on pose drawn by Kerry Gammill pose for Marvel Universe",
+        "src": "http://scrollboss.illmosis.net/comicedits/ultron-fgtsze_80s_normalsize_mu88gammill.png"
+      },
+      {
+        "title": "Whirlwind: 2020, Captain America and the Avengers stand pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/whirlwind-fgtsze_classicgreen_standcalm.png"
+      },
+      {
+        "title": "the White Queen: 2014, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/whitequeen-fgtsze_v1_pose1-capehold.png"
+      },
+      {
+        "title": "the Enchantress: 2023, inspired by Avengers 22 cover (by Jack Kirby)",
+        "src": "http://scrollboss.illmosis.net/comicedits/enchantressamora-fgtsze_classic_avengers22coverside.png"
+      },
+      {
+        "title": "Gladiator: scratch, battle hover",
+        "src": "http://scrollboss.illmosis.net/comicedits/gladiator-shiar-fgtsze_smbattlehover.png"
+      },
+      {
+        "title": "Kang: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/kang-fgtsze_classic_akimbo01.png"
+      },
+      {
+        "title": "Mandarin: (from scratch) Late 80's/early 90's",
+        "src": "http://scrollboss.illmosis.net/comicedits/mandarin-fgtsze_bluesilverarmor_akimbo.png"
+      },
+      {
+        "title": "M.O.D.O.K.",
+        "src": "http://scrollboss.illmosis.net/comicedits/modok-fgtsze_mvc3_hover1.png"
+      },
+      {
+        "title": "Moonstone",
+        "src": "http://scrollboss.illmosis.net/comicedits/moonstone-fgtsze_classic_hover1.png"
+      },
+      {
+        "title": "Princess Python",
+        "src": "http://scrollboss.illmosis.net/comicedits/princesspython-capfgt_pose1-wpython.png"
+      },
+      {
+        "title": "Red Skull: CAatA pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/redskull-fgtsze_suit_smoking1.png"
+      },
+      {
+        "title": "Titanium Man: 2021, stand",
+        "src": "http://scrollboss.illmosis.net/comicedits/titaniumman-fgtsze_v1-helmet2_stand1.png"
+      },
+      {
+        "title": "Viper: scratch-made, Captain America #111, page 5 by Jim Steranko",
+        "src": "http://scrollboss.illmosis.net/comicedits/viper-marvel-fgtsze_mhydra_cap111page5.png"
+      },
+      {
+        "title": "the Wizard: scratch-made",
+        "src": "http://scrollboss.illmosis.net/comicedits/wizard-marvel-fgtsze_classic_hover1.png"
+      },
+      {
+        "title": "Goliath (Eric Josten)",
+        "src": "http://scrollboss.illmosis.net/comicedits/golaith-josten-capfgt_giantstand.png"
+      },
+      {
+        "title": "Carnage: 2020, Maximum Carnage fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/carnage-fgtsze_classic_fgtstance-mc.png"
+      },
+      {
+        "title": "Doctor Octopus: 2021, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/doctoroctopus-fgtsze_classic_stand1.png"
+      },
+      {
+        "title": "the Green Goblin: 2020",
+        "src": "http://scrollboss.illmosis.net/comicedits/greengoblin-fgtsze_classic_stand1-2bombs.png"
+      },
+      {
+        "title": "the Lizard: 2021, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/lizard-marvel-fgtsze_classic_fgtstance1.png"
+      },
+      {
+        "title": "Mysterio: 2020",
+        "src": "http://scrollboss.illmosis.net/comicedits/mysterio-fgtsze_classic_pose1.png"
+      },
+      {
+        "title": "Magneto: 2023 - Secret Wars Mattel figure",
+        "src": "http://scrollboss.illmosis.net/comicedits/magneto-fgtsze_secretwarsmattel_hover1.png"
+      },
+      {
+        "title": "Avalanche: 2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/avalanche-fgtsze_classic_stand1.png"
+      },
+      {
+        "title": "the Blob: 2020, X-Men Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/blob-fgtsze_80s_stand1.png"
+      },
+      {
+        "title": "Mystique: 2017, X-Men Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/mystique-fgtsze_classic_stand-konamiarc.png"
+      },
+      {
+        "title": "Pyro: 2020, X-Men Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/pyro-fgtsze_classic_akimbo.png"
+      },
+      {
+        "title": "Bogart: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/punishercapcom-fgtsze_suits_bogart_fgtstance.png"
+      },
+      {
+        "title": "Bruno Costa: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/punishercapcom-fgtsze_suits_brunocosta_fgtstance.png"
+      },
+      {
+        "title": "Byron Hannigan: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/punishercapcom-fgtsze_suits_byronhannigan_fgtstance.png"
+      },
+      {
+        "title": "Leon Kolsky: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/punishercapcom-fgtsze_suits_leonkolsky_fgtstance.png"
+      },
+      {
+        "title": "Luis Allegre: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/punishercapcom-fgtsze_suits_luisallegre_fgtstance.png"
+      },
+      {
+        "title": "Matt Skinner: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/punishercapcom-fgtsze_suits_mattskinner_fgtstance.png"
+      },
+      {
+        "title": "Deadpool:  ",
+        "src": "http://scrollboss.illmosis.net/customsprite/c4ncel_marvel_deadpool.gif"
+      },
+      {
+        "title": "Spider-Man:  ",
+        "src": "http://scrollboss.illmosis.net/customsprite/c4ncel_marvel_spiderman.gif"
+      },
+      {
+        "title": "Venom:  ",
+        "src": "http://scrollboss.illmosis.net/customsprite/c4ncel_marvel_venom.gif"
+      },
+      {
+        "title": "Wolverine:  ",
+        "src": "http://scrollboss.illmosis.net/customsprite/c4ncel_marvel_zombiewolverine.gif"
+      },
+      {
+        "title": "Wolverine:  ",
+        "src": "http://scrollboss.illmosis.net/customsprite/c4ncel_marvel_wolverines.gif"
+      },
+      {
+        "title": "DC Comics gallery",
+        "src": "http://scrollboss.illmosis.net/gfx/200x100_customsprites_dccomics.png"
+      },
+      {
+        "title": "Marvel gallery",
+        "src": "http://scrollboss.illmosis.net/gfx/200x100_customsprites_marvelcomics.png"
+      },
+      {
+        "title": "Spawn gallery",
+        "src": "http://scrollboss.illmosis.net/gfx/200x100_customsprites_spawn.png"
+      },
+      {
+        "title": "Raven's Dojo gallery",
+        "src": "http://scrollboss.illmosis.net/gfx/200x100_customsprites_ravensdojo.png"
+      },
+      {
+        "title": "RAK Graphics",
+        "src": "http://scrollboss.illmosis.net/gfx/200x100_customsprites_rakgraphics.png"
+      },
+      {
+        "title": "TMNT gallery",
+        "src": "http://scrollboss.illmosis.net/gfx/200x100_customsprites_tmnt.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=kingpin-fgtsze",
+    "urlname": "kingpin",
+    "name": "the Kingpin",
+    "sprites": [
+      {
+        "title": "the Kingpin: 2019, Punisher stance recreated",
+        "src": "http://scrollboss.illmosis.net/comicedits/kingpin-fgtsze_classic-unbutton_whtwht_idle-punisherarc.png"
+      },
+      {
+        "title": "the Kingpin: 2019, Punisher stance recreated",
+        "src": "http://scrollboss.illmosis.net/comicedits/kingpin-fgtsze_classic-unbutton_whtprp_idle-punisherarc.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=klaw-fgtsze",
+    "urlname": "klaw",
+    "name": "Klaw",
+    "sprites": [
+      {
+        "title": "Klaw: 2018, classic, CAatA fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/klaw-fgtsze_classic_faceleft_fgtstance-av91.png"
+      },
+      {
+        "title": "Klaw: (base: Cyclops)",
+        "src": "http://scrollboss.illmosis.net/comicedits/klaw_attack1-faceleft.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=loki-fgtsze",
+    "urlname": "loki",
+    "name": "Loki",
+    "sprites": [
+      {
+        "title": "Loki: 2012 (from scratch) classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/loki-capfgt_classic_armsfolded-serious.png"
+      },
+      {
+        "title": "Loki: 2012 (from scratch) classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/loki-capfgt_classic_armsfolded-sneer.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=livinglaser-fgtsze",
+    "urlname": "livinglaser",
+    "name": "Living Laser",
+    "sprites": [
+      {
+        "title": "2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/livinglaser-fgtsze_classic_chargepose1.png"
+      },
+      {
+        "title": "Living Laser: 2006, (base: Capcom MSH Captain America)",
+        "src": "http://scrollboss.illmosis.net/comicedits/livinglaser_stand.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=nebula-fgtsze",
+    "urlname": "nebula",
+    "name": "Marvel heroesMarvel VillainsC4ncelComic Book galleries hub",
+    "sprites": [
+      {
+        "title": "Black Cat",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackcat-marvel-fgtsze_classic_fgtstance-sm91.png"
+      },
+      {
+        "title": "the Black Knight: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackknightmarvel-fgtsze_dane-classic_stand01-ebonybladeheld1.png"
+      },
+      {
+        "title": "Black Panther: 2018",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther-fgtsze_classic-cape_calmstand1.png"
+      },
+      {
+        "title": "Black Widow: 2015 from scratch",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow-fgtsze_classic-blkgold_wintaunt-stingup1.png"
+      },
+      {
+        "title": "Captain America: 2017, updated 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/captamerica-fgtsze_classic_stand1-lshoulderf-shieldleft-lookleft.png"
+      },
+      {
+        "title": "Captain Marvel, Danvers: 2017 scratch-made, Marvel vs. Capcom: Infinite stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/captmarveldanvers-fgtsze_v2_blue-red_fgtstance-mvci.png"
+      },
+      {
+        "title": "Daredevil: 2024",
+        "src": "http://scrollboss.illmosis.net/comicedits/daredevil-fgtsze_classic_calmstand-headforward-w1strap.png"
+      },
+      {
+        "title": "Deadpool: 2017, MvC3 taunt",
+        "src": "http://scrollboss.illmosis.net/comicedits/deadpool-fgtsze_mvc3_taunt-mvc3.png"
+      },
+      {
+        "title": "Doctor Strange: 2022, UMvC3 fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/doctorstrange-fgtsze_classic_idle-umvc3.png"
+      },
+      {
+        "title": "the Dora Mijale",
+        "src": "http://scrollboss.illmosis.net/comicedits/doramilaje-fgtsze_98battle_bald_guard-spear.png"
+      },
+      {
+        "title": "the Falcon: 2015?",
+        "src": "http://scrollboss.illmosis.net/comicedits/falcon-fgtsze_classic_flyback.png"
+      },
+      {
+        "title": "Firestar: 2020-2021, classic, hover",
+        "src": "http://scrollboss.illmosis.net/comicedits/firestar-fgtsze_classic_hover1.png"
+      },
+      {
+        "title": "Ghost Rider",
+        "src": "http://scrollboss.illmosis.net/comicedits/ghostrider-fgtsze_ketch_fgtstance-mvc3.png"
+      },
+      {
+        "title": "Groot: after Tales to Astonish 13, page 1 by Jack Kirby",
+        "src": "http://scrollboss.illmosis.net/comicedits/groot-fgtsze_bigbare_tta13p1.png"
+      },
+      {
+        "title": "Ant-Man: size change pose, 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/antman-fgtsze_pym60s_normal_stand-sizechange.png"
+      },
+      {
+        "title": "Hawkeye: 2018, fight stance from Captain America and the Avengers",
+        "src": "http://scrollboss.illmosis.net/comicedits/hawkeye-fgtsze_classic2_fgtstance-caata.png"
+      },
+      {
+        "title": "Iron Fist: 2016",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironfist-fgtsze_classic-grn_calmstand1.png"
+      },
+      {
+        "title": "Iron Man (custom pose)",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_neoclassic_win-superiortechfist.png"
+      },
+      {
+        "title": "Luke Cage: 2016",
+        "src": "http://scrollboss.illmosis.net/comicedits/lukecage-fgtsze_emh_palmfist1-forward.png"
+      },
+      {
+        "title": "Captain Marvel/Monica Rambeau: scratch-made 2015",
+        "src": "http://scrollboss.illmosis.net/comicedits/monicarambeau-fgtsze_cm1_stand-asmanual16p8-head4oclock.png"
+      },
+      {
+        "title": "Misty Knight: 70s-80s",
+        "src": "http://scrollboss.illmosis.net/comicedits/mistyknight-fgtsze_classic_standcalm1-handships.png"
+      },
+      {
+        "title": "Namor the Sub-Mariner: 2018, Spider-Man the Arcade Game fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/namor-fgtsze_classic_fgtstance-smarc.png"
+      },
+      {
+        "title": "Nick Fury: 2019, Punisher arcade fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/nickfury-fgtsze_punarc_fgtstance-punarc.png"
+      },
+      {
+        "title": "Quicksilver: 2012 from scratch",
+        "src": "http://scrollboss.illmosis.net/comicedits/quicksilver-capfgt_classic-v1-blue_wait.png"
+      },
+      {
+        "title": "the Punisher: Capcom '93 fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/punisher-fgtsze_classic_fgtstancecapcom93.png"
+      },
+      {
+        "title": "Scarlet Witch: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/scarletwitch-fgtsze_classic_1970_castpose01.png"
+      },
+      {
+        "title": "She-Hulk: 2016, MvsC3 pre-fight 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/shehulk-fgtsze_mvc3_fstand-mvc3.png"
+      },
+      {
+        "title": "Silver Surfer: 2017, (after J.Kirby)",
+        "src": "http://scrollboss.illmosis.net/comicedits/silversurfer-fgtsze_afterkirby-gn-p62.png"
+      },
+      {
+        "title": "Spider-Man: 2020, Sega arcade fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/spiderman-fgtsze_classic_fgtstance-segaarc2020.png"
+      },
+      {
+        "title": "Spider-Woman: 2020, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/spiderwoman-fgtsze_oriiginal_pose1.png"
+      },
+      {
+        "title": "Star-Lord: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/starlord-fgtsze_annihilators-red_dualblasters1.png"
+      },
+      {
+        "title": "Thor: 2022 with 2023 adjustments",
+        "src": "http://scrollboss.illmosis.net/comicedits/thor-fgtsze_2023classic_mjolnirraise-a_frame01.png"
+      },
+      {
+        "title": "the Vision: 2017 hover (scratch-made)",
+        "src": "http://scrollboss.illmosis.net/comicedits/vision-fgtsze_classic_floatup-headforward-cape1.png"
+      },
+      {
+        "title": "Wasp",
+        "src": "http://scrollboss.illmosis.net/comicedits/wasp-fgtsze_l80e90_akimbo1.png"
+      },
+      {
+        "title": "War Machine: alternate angle of War Machine #1 cover",
+        "src": "http://scrollboss.illmosis.net/comicedits/warmachine-fgtsze_classic_ready.png"
+      },
+      {
+        "title": "Wonder Man: scratch-made 2015",
+        "src": "http://scrollboss.illmosis.net/comicedits/wonderman-fgtsze_wcaera_avengers9cover_sideslight.png"
+      },
+      {
+        "title": "Human Torch: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/humantorch-fgtsze_flameclassic_hover1.png"
+      },
+      {
+        "title": "Invisible Woman: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/invisiblewoman-fgtsze_classic_readypose1.png"
+      },
+      {
+        "title": "Mr. Fantastic: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/mrfantastic-fgtsze_classic_fgtstance-stretch.png"
+      },
+      {
+        "title": "The Thing: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/thing-fgtsze_classic_punchpalm.png"
+      },
+      {
+        "title": "charname: 2018",
+        "src": "http://scrollboss.illmosis.net/comicedits/beast-fgtsze_90s_crouch1.png"
+      },
+      {
+        "title": "Cyclops: 2017, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/cyclops-fgtsze_classic_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Jean Grey: 2017, MvC3 fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/jeangrey-fgtsze_phoenixclassic_mvc3stand.png"
+      },
+      {
+        "title": "Colossus: 2017, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/colossus-fgtsze_classic_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Storm: 2016, Konami arcade pose6",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_classic_konamistand2024.png"
+      },
+      {
+        "title": "Wolverine: 2017, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/wolverine-fgtsze_ornbrn_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Nightcrawler: 2020, original outfit, teleport",
+        "src": "http://scrollboss.illmosis.net/comicedits/nightcrawler-fgtsze_classic_teleport1.png"
+      },
+      {
+        "title": "Dazzler: 2016, Konami arcade fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/dazzler-fgtsze_potx_konamiarcadestance.png"
+      },
+      {
+        "title": "Archangel: 2021, hover 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/archangel-fgtsze_v1hood_hover1.png"
+      },
+      {
+        "title": "Rogue: 2021, hover 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/rogue-fgtsze_late80s_hover1.png"
+      },
+      {
+        "title": "Havok: 2021, charge 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/havok-fgtsze_v1_pose01-ringsflat-display1.png"
+      },
+      {
+        "title": "Professor Charles Xavier: 2021, hoverchair",
+        "src": "http://scrollboss.illmosis.net/comicedits/professorx-fgtsze_jlhoverchair-suitgreen_pose1.png"
+      },
+      {
+        "title": "Psylocke: 2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/psylocke-fgtsze_training_pose1-psyblades.png"
+      },
+      {
+        "title": "X-23: 2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/x23-fgtsze_mvc3_fgtstance-mvc3.png"
+      },
+      {
+        "title": "Bishop",
+        "src": "http://scrollboss.illmosis.net/comicedits/bishoplucas-fgtsze_original_pose1.png"
+      },
+      {
+        "title": "Diamondback",
+        "src": "http://scrollboss.illmosis.net/comicedits/diamondback_v1_showoff1.png"
+      },
+      {
+        "title": "Hulk: scratch-made, classic Buscema-ish",
+        "src": "http://scrollboss.illmosis.net/comicedits/hulk-capfgt_scratchmade_savage_pose1.png"
+      },
+      {
+        "title": "Medusa: 2017, classic outfit",
+        "src": "http://scrollboss.illmosis.net/comicedits/medusa-marvel-fgtsze_classic_stand1.png"
+      },
+      {
+        "title": "Mockingbird: 2018, based on Kimberly Root pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/mockingbird_kimbrootcosplay_stance-kimbroot.png"
+      },
+      {
+        "title": "Moon Knight: 2017, e90s - vol.1 issue 1 cover side view",
+        "src": "http://scrollboss.illmosis.net/comicedits/moonknight-fgtsze_classic_mkvol1i1coverside.png"
+      },
+      {
+        "title": "Rocket Raccoon: (from scratch) GotG uniform",
+        "src": "http://scrollboss.illmosis.net/comicedits/rocketraccoon-capfgt_gotg-bluered_pose1.png"
+      },
+      {
+        "title": "Goliath/Bill Foster: (from scratch)",
+        "src": "http://scrollboss.illmosis.net/comicedits/goliath-billfoster_whtbluegold70s_giantstand1.png"
+      },
+      {
+        "title": "Shadowcat Kitty Pryde: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/kittypryde-fgtsze_shadowcat90s_careful01.png"
+      },
+      {
+        "title": "the Avengers: 2021, Avengers #1",
+        "src": "http://scrollboss.illmosis.net/comicedits/avengers-fgtsze_issue1team_v1.png"
+      },
+      {
+        "title": "X-Men: 2021, Konami playable squad 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/xmen-fgtsze_konami_center1.png"
+      },
+      {
+        "title": "Absorbing Man: 2015 scratch-made",
+        "src": "http://scrollboss.illmosis.net/comicedits/absorbingman-fgtsze_classic_normal_stand1.png"
+      },
+      {
+        "title": "Baron Zemo: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/baronzemo-fgtsze_classic_wintaunt-a_fist-lookforward.png"
+      },
+      {
+        "title": "Batroc the Leaper: 2021, classic, stance 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/batroc-fgtsze_classic_stance1.png"
+      },
+      {
+        "title": "Boomerang: (2014) 80s",
+        "src": "http://scrollboss.illmosis.net/comicedits/boomerang-fgtsze_80s_fstand.png"
+      },
+      {
+        "title": "Crossbones: 2021, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/crossbones-fgtsze_classic-brn_knifestance1.png"
+      },
+      {
+        "title": "the Controller: 2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/controller-marvel-fgtsze_classic_fgtstance-caata.png"
+      },
+      {
+        "title": "Doctor Doom",
+        "src": "http://scrollboss.illmosis.net/comicedits/drdoom-fgtsze_sw84_fgtstance.png"
+      },
+      {
+        "title": "2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/grimreaper-fgtszet_classic_caatapose1.png"
+      },
+      {
+        "title": "Hyperion",
+        "src": "http://scrollboss.illmosis.net/comicedits/hyperion-marvel-fgtsze_classic-unmasked_smbattlehover.png"
+      },
+      {
+        "title": "the Kingpin: 2019, Punisher stance recreated",
+        "src": "http://scrollboss.illmosis.net/comicedits/kingpin-fgtsze_classic-unbutton_whtwht_idle-punisherarc.png"
+      },
+      {
+        "title": "Klaw: 2018, classic, CAatA fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/klaw-fgtsze_classic_faceleft_fgtstance-av91.png"
+      },
+      {
+        "title": "Loki: 2012 (from scratch) classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/loki-capfgt_classic_armsfolded-serious.png"
+      },
+      {
+        "title": "2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/livinglaser-fgtsze_classic_chargepose1.png"
+      },
+      {
+        "title": "Nebula: (from scratch) 90s cyborg, MSH War of the Gems stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/nebula-fgtsze_cyborg_wotg_stand.png"
+      },
+      {
+        "title": "Nightshade: 2018, original outfit",
+        "src": "http://scrollboss.illmosis.net/comicedits/nightshade-marvel-fgtsze_v1_taunt1.png"
+      },
+      {
+        "title": "Sentinel: Mk. V mini (Konami arcade), Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/sentinel-marvel-fgtsze_mkvmini_purpleviolet_stand-konarc.png"
+      },
+      {
+        "title": "Super-Skrull",
+        "src": "http://scrollboss.illmosis.net/comicedits/superskrull-fgtsze_classic_pose1_all4-v1.png"
+      },
+      {
+        "title": "Taskmaster: 2018, scratch-made, Marvel vs. Capcom 3 stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/taskmaster-fgtsze_classic_fgtstance-mvc3.png"
+      },
+      {
+        "title": "Titania: 2015, scratch-made, fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/titania-fgtsze_mary80s_stand1.png"
+      },
+      {
+        "title": "Ultron: scratch-made, based on pose drawn by Kerry Gammill pose for Marvel Universe",
+        "src": "http://scrollboss.illmosis.net/comicedits/ultron-fgtsze_80s_normalsize_mu88gammill.png"
+      },
+      {
+        "title": "Whirlwind: 2020, Captain America and the Avengers stand pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/whirlwind-fgtsze_classicgreen_standcalm.png"
+      },
+      {
+        "title": "the White Queen: 2014, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/whitequeen-fgtsze_v1_pose1-capehold.png"
+      },
+      {
+        "title": "the Enchantress: 2023, inspired by Avengers 22 cover (by Jack Kirby)",
+        "src": "http://scrollboss.illmosis.net/comicedits/enchantressamora-fgtsze_classic_avengers22coverside.png"
+      },
+      {
+        "title": "Gladiator: scratch, battle hover",
+        "src": "http://scrollboss.illmosis.net/comicedits/gladiator-shiar-fgtsze_smbattlehover.png"
+      },
+      {
+        "title": "Kang: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/kang-fgtsze_classic_akimbo01.png"
+      },
+      {
+        "title": "Mandarin: (from scratch) Late 80's/early 90's",
+        "src": "http://scrollboss.illmosis.net/comicedits/mandarin-fgtsze_bluesilverarmor_akimbo.png"
+      },
+      {
+        "title": "M.O.D.O.K.",
+        "src": "http://scrollboss.illmosis.net/comicedits/modok-fgtsze_mvc3_hover1.png"
+      },
+      {
+        "title": "Moonstone",
+        "src": "http://scrollboss.illmosis.net/comicedits/moonstone-fgtsze_classic_hover1.png"
+      },
+      {
+        "title": "Princess Python",
+        "src": "http://scrollboss.illmosis.net/comicedits/princesspython-capfgt_pose1-wpython.png"
+      },
+      {
+        "title": "Red Skull: CAatA pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/redskull-fgtsze_suit_smoking1.png"
+      },
+      {
+        "title": "Titanium Man: 2021, stand",
+        "src": "http://scrollboss.illmosis.net/comicedits/titaniumman-fgtsze_v1-helmet2_stand1.png"
+      },
+      {
+        "title": "Viper: scratch-made, Captain America #111, page 5 by Jim Steranko",
+        "src": "http://scrollboss.illmosis.net/comicedits/viper-marvel-fgtsze_mhydra_cap111page5.png"
+      },
+      {
+        "title": "the Wizard: scratch-made",
+        "src": "http://scrollboss.illmosis.net/comicedits/wizard-marvel-fgtsze_classic_hover1.png"
+      },
+      {
+        "title": "Goliath (Eric Josten)",
+        "src": "http://scrollboss.illmosis.net/comicedits/golaith-josten-capfgt_giantstand.png"
+      },
+      {
+        "title": "Carnage: 2020, Maximum Carnage fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/carnage-fgtsze_classic_fgtstance-mc.png"
+      },
+      {
+        "title": "Doctor Octopus: 2021, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/doctoroctopus-fgtsze_classic_stand1.png"
+      },
+      {
+        "title": "the Green Goblin: 2020",
+        "src": "http://scrollboss.illmosis.net/comicedits/greengoblin-fgtsze_classic_stand1-2bombs.png"
+      },
+      {
+        "title": "the Lizard: 2021, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/lizard-marvel-fgtsze_classic_fgtstance1.png"
+      },
+      {
+        "title": "Mysterio: 2020",
+        "src": "http://scrollboss.illmosis.net/comicedits/mysterio-fgtsze_classic_pose1.png"
+      },
+      {
+        "title": "Magneto: 2023 - Secret Wars Mattel figure",
+        "src": "http://scrollboss.illmosis.net/comicedits/magneto-fgtsze_secretwarsmattel_hover1.png"
+      },
+      {
+        "title": "Avalanche: 2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/avalanche-fgtsze_classic_stand1.png"
+      },
+      {
+        "title": "the Blob: 2020, X-Men Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/blob-fgtsze_80s_stand1.png"
+      },
+      {
+        "title": "Mystique: 2017, X-Men Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/mystique-fgtsze_classic_stand-konamiarc.png"
+      },
+      {
+        "title": "Pyro: 2020, X-Men Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/pyro-fgtsze_classic_akimbo.png"
+      },
+      {
+        "title": "Bogart: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/punishercapcom-fgtsze_suits_bogart_fgtstance.png"
+      },
+      {
+        "title": "Bruno Costa: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/punishercapcom-fgtsze_suits_brunocosta_fgtstance.png"
+      },
+      {
+        "title": "Byron Hannigan: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/punishercapcom-fgtsze_suits_byronhannigan_fgtstance.png"
+      },
+      {
+        "title": "Leon Kolsky: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/punishercapcom-fgtsze_suits_leonkolsky_fgtstance.png"
+      },
+      {
+        "title": "Luis Allegre: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/punishercapcom-fgtsze_suits_luisallegre_fgtstance.png"
+      },
+      {
+        "title": "Matt Skinner: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/punishercapcom-fgtsze_suits_mattskinner_fgtstance.png"
+      },
+      {
+        "title": "Deadpool:  ",
+        "src": "http://scrollboss.illmosis.net/customsprite/c4ncel_marvel_deadpool.gif"
+      },
+      {
+        "title": "Spider-Man:  ",
+        "src": "http://scrollboss.illmosis.net/customsprite/c4ncel_marvel_spiderman.gif"
+      },
+      {
+        "title": "Venom:  ",
+        "src": "http://scrollboss.illmosis.net/customsprite/c4ncel_marvel_venom.gif"
+      },
+      {
+        "title": "Wolverine:  ",
+        "src": "http://scrollboss.illmosis.net/customsprite/c4ncel_marvel_zombiewolverine.gif"
+      },
+      {
+        "title": "Wolverine:  ",
+        "src": "http://scrollboss.illmosis.net/customsprite/c4ncel_marvel_wolverines.gif"
+      },
+      {
+        "title": "DC Comics gallery",
+        "src": "http://scrollboss.illmosis.net/gfx/200x100_customsprites_dccomics.png"
+      },
+      {
+        "title": "Marvel gallery",
+        "src": "http://scrollboss.illmosis.net/gfx/200x100_customsprites_marvelcomics.png"
+      },
+      {
+        "title": "Spawn gallery",
+        "src": "http://scrollboss.illmosis.net/gfx/200x100_customsprites_spawn.png"
+      },
+      {
+        "title": "Raven's Dojo gallery",
+        "src": "http://scrollboss.illmosis.net/gfx/200x100_customsprites_ravensdojo.png"
+      },
+      {
+        "title": "RAK Graphics",
+        "src": "http://scrollboss.illmosis.net/gfx/200x100_customsprites_rakgraphics.png"
+      },
+      {
+        "title": "TMNT gallery",
+        "src": "http://scrollboss.illmosis.net/gfx/200x100_customsprites_tmnt.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=nightshade-fgtsze",
+    "urlname": "nightshade",
+    "name": "Nightshade",
+    "sprites": [
+      {
+        "title": "Nightshade: 2018, original outfit",
+        "src": "http://scrollboss.illmosis.net/comicedits/nightshade-marvel-fgtsze_v1_taunt1.png"
+      },
+      {
+        "title": "Nightshade: 2018, 00s",
+        "src": "http://scrollboss.illmosis.net/comicedits/nightshade-marvel-fgtsze_2ks_taunt1.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=sentinel-fgtsze",
+    "urlname": "sentinel",
+    "name": "Sentinel",
+    "sprites": [
+      {
+        "title": "Sentinel: Mk. V mini (Konami arcade), Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/sentinel-marvel-fgtsze_mkvmini_purpleviolet_stand-konarc.png"
+      },
+      {
+        "title": "Sentinel: Mk. V mini (Konami arcade), Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/sentinel-marvel-fgtsze_mkvmini_purplesilver_stand-konarc.png"
+      },
+      {
+        "title": "Sentinel: Mk. V mini (Konami arcade), Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/sentinel-marvel-fgtsze_mkvmini_greensilver_stand-konarc.png"
+      },
+      {
+        "title": "Sentinel: Mk. V mini (Konami arcade), Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/sentinel-marvel-fgtsze_mkvmini_redgold_stand-konarc.png"
+      },
+      {
+        "title": "Sentinel: Mk. V mini (Konami arcade), Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/sentinel-marvel-fgtsze_mkvmini_silver_stand-konarc.png"
+      },
+      {
+        "title": "Sentinel: Mk. V mini (Konami arcade), Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/sentinel-marvel-fgtsze_mkvmini_gold_stand-konarc.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=superskrull-fgtsze",
+    "urlname": "superskrull",
+    "name": "Super-Skrull",
+    "sprites": [
+      {
+        "title": "Super-Skrull",
+        "src": "http://scrollboss.illmosis.net/comicedits/superskrull-fgtsze_classic_pose1.png"
+      },
+      {
+        "title": "Super-Skrull",
+        "src": "http://scrollboss.illmosis.net/comicedits/superskrull-fgtsze_classic_pose1_i-whole.png"
+      },
+      {
+        "title": "Super-Skrull",
+        "src": "http://scrollboss.illmosis.net/comicedits/superskrull-fgtsze_classic_pose1_l-t.png"
+      },
+      {
+        "title": "Super-Skrull",
+        "src": "http://scrollboss.illmosis.net/comicedits/superskrull-fgtsze_classic_pose1_l-f.png"
+      },
+      {
+        "title": "Super-Skrull",
+        "src": "http://scrollboss.illmosis.net/comicedits/superskrull-fgtsze_classic_pose1_b-t.png"
+      },
+      {
+        "title": "Super-Skrull",
+        "src": "http://scrollboss.illmosis.net/comicedits/superskrull-fgtsze_classic_pose1_all4-v1.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=taskmaster-fgtsze",
+    "urlname": "taskmaster",
+    "name": "Taskmaster",
+    "sprites": [
+      {
+        "title": "Taskmaster: 2018, scratch-made, Marvel vs. Capcom 3 stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/taskmaster-fgtsze_classic_fgtstance-mvc3.png"
+      },
+      {
+        "title": "the Taskmaster: (base: Capt. Am)",
+        "src": "http://scrollboss.illmosis.net/comicedits/taskmaster-capfgt_capstand.png"
+      },
+      {
+        "title": "the Taskmaster: (base: Capt. Am)",
+        "src": "http://scrollboss.illmosis.net/comicedits/taskmaster-capfgt_swordthreat.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=titania-fgtsze",
+    "urlname": "titania",
+    "name": "Marvel heroesMarvel VillainsC4ncelComic Book galleries hub",
+    "sprites": [
+      {
+        "title": "Black Cat",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackcat-marvel-fgtsze_classic_fgtstance-sm91.png"
+      },
+      {
+        "title": "the Black Knight: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackknightmarvel-fgtsze_dane-classic_stand01-ebonybladeheld1.png"
+      },
+      {
+        "title": "Black Panther: 2018",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackpanther-fgtsze_classic-cape_calmstand1.png"
+      },
+      {
+        "title": "Black Widow: 2015 from scratch",
+        "src": "http://scrollboss.illmosis.net/comicedits/blackwidow-fgtsze_classic-blkgold_wintaunt-stingup1.png"
+      },
+      {
+        "title": "Captain America: 2017, updated 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/captamerica-fgtsze_classic_stand1-lshoulderf-shieldleft-lookleft.png"
+      },
+      {
+        "title": "Captain Marvel, Danvers: 2017 scratch-made, Marvel vs. Capcom: Infinite stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/captmarveldanvers-fgtsze_v2_blue-red_fgtstance-mvci.png"
+      },
+      {
+        "title": "Daredevil: 2024",
+        "src": "http://scrollboss.illmosis.net/comicedits/daredevil-fgtsze_classic_calmstand-headforward-w1strap.png"
+      },
+      {
+        "title": "Deadpool: 2017, MvC3 taunt",
+        "src": "http://scrollboss.illmosis.net/comicedits/deadpool-fgtsze_mvc3_taunt-mvc3.png"
+      },
+      {
+        "title": "Doctor Strange: 2022, UMvC3 fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/doctorstrange-fgtsze_classic_idle-umvc3.png"
+      },
+      {
+        "title": "the Dora Mijale",
+        "src": "http://scrollboss.illmosis.net/comicedits/doramilaje-fgtsze_98battle_bald_guard-spear.png"
+      },
+      {
+        "title": "the Falcon: 2015?",
+        "src": "http://scrollboss.illmosis.net/comicedits/falcon-fgtsze_classic_flyback.png"
+      },
+      {
+        "title": "Firestar: 2020-2021, classic, hover",
+        "src": "http://scrollboss.illmosis.net/comicedits/firestar-fgtsze_classic_hover1.png"
+      },
+      {
+        "title": "Ghost Rider",
+        "src": "http://scrollboss.illmosis.net/comicedits/ghostrider-fgtsze_ketch_fgtstance-mvc3.png"
+      },
+      {
+        "title": "Groot: after Tales to Astonish 13, page 1 by Jack Kirby",
+        "src": "http://scrollboss.illmosis.net/comicedits/groot-fgtsze_bigbare_tta13p1.png"
+      },
+      {
+        "title": "Ant-Man: size change pose, 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/antman-fgtsze_pym60s_normal_stand-sizechange.png"
+      },
+      {
+        "title": "Hawkeye: 2018, fight stance from Captain America and the Avengers",
+        "src": "http://scrollboss.illmosis.net/comicedits/hawkeye-fgtsze_classic2_fgtstance-caata.png"
+      },
+      {
+        "title": "Iron Fist: 2016",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironfist-fgtsze_classic-grn_calmstand1.png"
+      },
+      {
+        "title": "Iron Man (custom pose)",
+        "src": "http://scrollboss.illmosis.net/comicedits/ironman-fgtsze_neoclassic_win-superiortechfist.png"
+      },
+      {
+        "title": "Luke Cage: 2016",
+        "src": "http://scrollboss.illmosis.net/comicedits/lukecage-fgtsze_emh_palmfist1-forward.png"
+      },
+      {
+        "title": "Captain Marvel/Monica Rambeau: scratch-made 2015",
+        "src": "http://scrollboss.illmosis.net/comicedits/monicarambeau-fgtsze_cm1_stand-asmanual16p8-head4oclock.png"
+      },
+      {
+        "title": "Misty Knight: 70s-80s",
+        "src": "http://scrollboss.illmosis.net/comicedits/mistyknight-fgtsze_classic_standcalm1-handships.png"
+      },
+      {
+        "title": "Namor the Sub-Mariner: 2018, Spider-Man the Arcade Game fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/namor-fgtsze_classic_fgtstance-smarc.png"
+      },
+      {
+        "title": "Nick Fury: 2019, Punisher arcade fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/nickfury-fgtsze_punarc_fgtstance-punarc.png"
+      },
+      {
+        "title": "Quicksilver: 2012 from scratch",
+        "src": "http://scrollboss.illmosis.net/comicedits/quicksilver-capfgt_classic-v1-blue_wait.png"
+      },
+      {
+        "title": "the Punisher: Capcom '93 fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/punisher-fgtsze_classic_fgtstancecapcom93.png"
+      },
+      {
+        "title": "Scarlet Witch: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/scarletwitch-fgtsze_classic_1970_castpose01.png"
+      },
+      {
+        "title": "She-Hulk: 2016, MvsC3 pre-fight 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/shehulk-fgtsze_mvc3_fstand-mvc3.png"
+      },
+      {
+        "title": "Silver Surfer: 2017, (after J.Kirby)",
+        "src": "http://scrollboss.illmosis.net/comicedits/silversurfer-fgtsze_afterkirby-gn-p62.png"
+      },
+      {
+        "title": "Spider-Man: 2020, Sega arcade fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/spiderman-fgtsze_classic_fgtstance-segaarc2020.png"
+      },
+      {
+        "title": "Spider-Woman: 2020, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/spiderwoman-fgtsze_oriiginal_pose1.png"
+      },
+      {
+        "title": "Star-Lord: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/starlord-fgtsze_annihilators-red_dualblasters1.png"
+      },
+      {
+        "title": "Thor: 2022 with 2023 adjustments",
+        "src": "http://scrollboss.illmosis.net/comicedits/thor-fgtsze_2023classic_mjolnirraise-a_frame01.png"
+      },
+      {
+        "title": "the Vision: 2017 hover (scratch-made)",
+        "src": "http://scrollboss.illmosis.net/comicedits/vision-fgtsze_classic_floatup-headforward-cape1.png"
+      },
+      {
+        "title": "Wasp",
+        "src": "http://scrollboss.illmosis.net/comicedits/wasp-fgtsze_l80e90_akimbo1.png"
+      },
+      {
+        "title": "War Machine: alternate angle of War Machine #1 cover",
+        "src": "http://scrollboss.illmosis.net/comicedits/warmachine-fgtsze_classic_ready.png"
+      },
+      {
+        "title": "Wonder Man: scratch-made 2015",
+        "src": "http://scrollboss.illmosis.net/comicedits/wonderman-fgtsze_wcaera_avengers9cover_sideslight.png"
+      },
+      {
+        "title": "Human Torch: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/humantorch-fgtsze_flameclassic_hover1.png"
+      },
+      {
+        "title": "Invisible Woman: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/invisiblewoman-fgtsze_classic_readypose1.png"
+      },
+      {
+        "title": "Mr. Fantastic: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/mrfantastic-fgtsze_classic_fgtstance-stretch.png"
+      },
+      {
+        "title": "The Thing: 2017",
+        "src": "http://scrollboss.illmosis.net/comicedits/thing-fgtsze_classic_punchpalm.png"
+      },
+      {
+        "title": "charname: 2018",
+        "src": "http://scrollboss.illmosis.net/comicedits/beast-fgtsze_90s_crouch1.png"
+      },
+      {
+        "title": "Cyclops: 2017, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/cyclops-fgtsze_classic_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Jean Grey: 2017, MvC3 fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/jeangrey-fgtsze_phoenixclassic_mvc3stand.png"
+      },
+      {
+        "title": "Colossus: 2017, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/colossus-fgtsze_classic_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Storm: 2016, Konami arcade pose6",
+        "src": "http://scrollboss.illmosis.net/comicedits/storm-fgtsze_classic_konamistand2024.png"
+      },
+      {
+        "title": "Wolverine: 2017, Konami arcade pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/wolverine-fgtsze_ornbrn_fgtstance-konamiarc.png"
+      },
+      {
+        "title": "Nightcrawler: 2020, original outfit, teleport",
+        "src": "http://scrollboss.illmosis.net/comicedits/nightcrawler-fgtsze_classic_teleport1.png"
+      },
+      {
+        "title": "Dazzler: 2016, Konami arcade fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/dazzler-fgtsze_potx_konamiarcadestance.png"
+      },
+      {
+        "title": "Archangel: 2021, hover 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/archangel-fgtsze_v1hood_hover1.png"
+      },
+      {
+        "title": "Rogue: 2021, hover 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/rogue-fgtsze_late80s_hover1.png"
+      },
+      {
+        "title": "Havok: 2021, charge 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/havok-fgtsze_v1_pose01-ringsflat-display1.png"
+      },
+      {
+        "title": "Professor Charles Xavier: 2021, hoverchair",
+        "src": "http://scrollboss.illmosis.net/comicedits/professorx-fgtsze_jlhoverchair-suitgreen_pose1.png"
+      },
+      {
+        "title": "Psylocke: 2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/psylocke-fgtsze_training_pose1-psyblades.png"
+      },
+      {
+        "title": "X-23: 2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/x23-fgtsze_mvc3_fgtstance-mvc3.png"
+      },
+      {
+        "title": "Bishop",
+        "src": "http://scrollboss.illmosis.net/comicedits/bishoplucas-fgtsze_original_pose1.png"
+      },
+      {
+        "title": "Diamondback",
+        "src": "http://scrollboss.illmosis.net/comicedits/diamondback_v1_showoff1.png"
+      },
+      {
+        "title": "Hulk: scratch-made, classic Buscema-ish",
+        "src": "http://scrollboss.illmosis.net/comicedits/hulk-capfgt_scratchmade_savage_pose1.png"
+      },
+      {
+        "title": "Medusa: 2017, classic outfit",
+        "src": "http://scrollboss.illmosis.net/comicedits/medusa-marvel-fgtsze_classic_stand1.png"
+      },
+      {
+        "title": "Mockingbird: 2018, based on Kimberly Root pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/mockingbird_kimbrootcosplay_stance-kimbroot.png"
+      },
+      {
+        "title": "Moon Knight: 2017, e90s - vol.1 issue 1 cover side view",
+        "src": "http://scrollboss.illmosis.net/comicedits/moonknight-fgtsze_classic_mkvol1i1coverside.png"
+      },
+      {
+        "title": "Rocket Raccoon: (from scratch) GotG uniform",
+        "src": "http://scrollboss.illmosis.net/comicedits/rocketraccoon-capfgt_gotg-bluered_pose1.png"
+      },
+      {
+        "title": "Goliath/Bill Foster: (from scratch)",
+        "src": "http://scrollboss.illmosis.net/comicedits/goliath-billfoster_whtbluegold70s_giantstand1.png"
+      },
+      {
+        "title": "Shadowcat Kitty Pryde: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/kittypryde-fgtsze_shadowcat90s_careful01.png"
+      },
+      {
+        "title": "the Avengers: 2021, Avengers #1",
+        "src": "http://scrollboss.illmosis.net/comicedits/avengers-fgtsze_issue1team_v1.png"
+      },
+      {
+        "title": "X-Men: 2021, Konami playable squad 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/xmen-fgtsze_konami_center1.png"
+      },
+      {
+        "title": "Absorbing Man: 2015 scratch-made",
+        "src": "http://scrollboss.illmosis.net/comicedits/absorbingman-fgtsze_classic_normal_stand1.png"
+      },
+      {
+        "title": "Baron Zemo: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/baronzemo-fgtsze_classic_wintaunt-a_fist-lookforward.png"
+      },
+      {
+        "title": "Batroc the Leaper: 2021, classic, stance 1",
+        "src": "http://scrollboss.illmosis.net/comicedits/batroc-fgtsze_classic_stance1.png"
+      },
+      {
+        "title": "Boomerang: (2014) 80s",
+        "src": "http://scrollboss.illmosis.net/comicedits/boomerang-fgtsze_80s_fstand.png"
+      },
+      {
+        "title": "Crossbones: 2021, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/crossbones-fgtsze_classic-brn_knifestance1.png"
+      },
+      {
+        "title": "the Controller: 2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/controller-marvel-fgtsze_classic_fgtstance-caata.png"
+      },
+      {
+        "title": "Doctor Doom",
+        "src": "http://scrollboss.illmosis.net/comicedits/drdoom-fgtsze_sw84_fgtstance.png"
+      },
+      {
+        "title": "2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/grimreaper-fgtszet_classic_caatapose1.png"
+      },
+      {
+        "title": "Hyperion",
+        "src": "http://scrollboss.illmosis.net/comicedits/hyperion-marvel-fgtsze_classic-unmasked_smbattlehover.png"
+      },
+      {
+        "title": "the Kingpin: 2019, Punisher stance recreated",
+        "src": "http://scrollboss.illmosis.net/comicedits/kingpin-fgtsze_classic-unbutton_whtwht_idle-punisherarc.png"
+      },
+      {
+        "title": "Klaw: 2018, classic, CAatA fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/klaw-fgtsze_classic_faceleft_fgtstance-av91.png"
+      },
+      {
+        "title": "Loki: 2012 (from scratch) classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/loki-capfgt_classic_armsfolded-serious.png"
+      },
+      {
+        "title": "2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/livinglaser-fgtsze_classic_chargepose1.png"
+      },
+      {
+        "title": "Nebula: (from scratch) 90s cyborg, MSH War of the Gems stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/nebula-fgtsze_cyborg_wotg_stand.png"
+      },
+      {
+        "title": "Nightshade: 2018, original outfit",
+        "src": "http://scrollboss.illmosis.net/comicedits/nightshade-marvel-fgtsze_v1_taunt1.png"
+      },
+      {
+        "title": "Sentinel: Mk. V mini (Konami arcade), Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/sentinel-marvel-fgtsze_mkvmini_purpleviolet_stand-konarc.png"
+      },
+      {
+        "title": "Super-Skrull",
+        "src": "http://scrollboss.illmosis.net/comicedits/superskrull-fgtsze_classic_pose1_all4-v1.png"
+      },
+      {
+        "title": "Taskmaster: 2018, scratch-made, Marvel vs. Capcom 3 stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/taskmaster-fgtsze_classic_fgtstance-mvc3.png"
+      },
+      {
+        "title": "Titania: 2015, scratch-made, fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/titania-fgtsze_mary80s_stand1.png"
+      },
+      {
+        "title": "Ultron: scratch-made, based on pose drawn by Kerry Gammill pose for Marvel Universe",
+        "src": "http://scrollboss.illmosis.net/comicedits/ultron-fgtsze_80s_normalsize_mu88gammill.png"
+      },
+      {
+        "title": "Whirlwind: 2020, Captain America and the Avengers stand pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/whirlwind-fgtsze_classicgreen_standcalm.png"
+      },
+      {
+        "title": "the White Queen: 2014, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/whitequeen-fgtsze_v1_pose1-capehold.png"
+      },
+      {
+        "title": "the Enchantress: 2023, inspired by Avengers 22 cover (by Jack Kirby)",
+        "src": "http://scrollboss.illmosis.net/comicedits/enchantressamora-fgtsze_classic_avengers22coverside.png"
+      },
+      {
+        "title": "Gladiator: scratch, battle hover",
+        "src": "http://scrollboss.illmosis.net/comicedits/gladiator-shiar-fgtsze_smbattlehover.png"
+      },
+      {
+        "title": "Kang: 2023",
+        "src": "http://scrollboss.illmosis.net/comicedits/kang-fgtsze_classic_akimbo01.png"
+      },
+      {
+        "title": "Mandarin: (from scratch) Late 80's/early 90's",
+        "src": "http://scrollboss.illmosis.net/comicedits/mandarin-fgtsze_bluesilverarmor_akimbo.png"
+      },
+      {
+        "title": "M.O.D.O.K.",
+        "src": "http://scrollboss.illmosis.net/comicedits/modok-fgtsze_mvc3_hover1.png"
+      },
+      {
+        "title": "Moonstone",
+        "src": "http://scrollboss.illmosis.net/comicedits/moonstone-fgtsze_classic_hover1.png"
+      },
+      {
+        "title": "Princess Python",
+        "src": "http://scrollboss.illmosis.net/comicedits/princesspython-capfgt_pose1-wpython.png"
+      },
+      {
+        "title": "Red Skull: CAatA pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/redskull-fgtsze_suit_smoking1.png"
+      },
+      {
+        "title": "Titanium Man: 2021, stand",
+        "src": "http://scrollboss.illmosis.net/comicedits/titaniumman-fgtsze_v1-helmet2_stand1.png"
+      },
+      {
+        "title": "Viper: scratch-made, Captain America #111, page 5 by Jim Steranko",
+        "src": "http://scrollboss.illmosis.net/comicedits/viper-marvel-fgtsze_mhydra_cap111page5.png"
+      },
+      {
+        "title": "the Wizard: scratch-made",
+        "src": "http://scrollboss.illmosis.net/comicedits/wizard-marvel-fgtsze_classic_hover1.png"
+      },
+      {
+        "title": "Goliath (Eric Josten)",
+        "src": "http://scrollboss.illmosis.net/comicedits/golaith-josten-capfgt_giantstand.png"
+      },
+      {
+        "title": "Carnage: 2020, Maximum Carnage fight stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/carnage-fgtsze_classic_fgtstance-mc.png"
+      },
+      {
+        "title": "Doctor Octopus: 2021, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/doctoroctopus-fgtsze_classic_stand1.png"
+      },
+      {
+        "title": "the Green Goblin: 2020",
+        "src": "http://scrollboss.illmosis.net/comicedits/greengoblin-fgtsze_classic_stand1-2bombs.png"
+      },
+      {
+        "title": "the Lizard: 2021, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/lizard-marvel-fgtsze_classic_fgtstance1.png"
+      },
+      {
+        "title": "Mysterio: 2020",
+        "src": "http://scrollboss.illmosis.net/comicedits/mysterio-fgtsze_classic_pose1.png"
+      },
+      {
+        "title": "Magneto: 2023 - Secret Wars Mattel figure",
+        "src": "http://scrollboss.illmosis.net/comicedits/magneto-fgtsze_secretwarsmattel_hover1.png"
+      },
+      {
+        "title": "Avalanche: 2021",
+        "src": "http://scrollboss.illmosis.net/comicedits/avalanche-fgtsze_classic_stand1.png"
+      },
+      {
+        "title": "the Blob: 2020, X-Men Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/blob-fgtsze_80s_stand1.png"
+      },
+      {
+        "title": "Mystique: 2017, X-Men Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/mystique-fgtsze_classic_stand-konamiarc.png"
+      },
+      {
+        "title": "Pyro: 2020, X-Men Konami arcade stance",
+        "src": "http://scrollboss.illmosis.net/comicedits/pyro-fgtsze_classic_akimbo.png"
+      },
+      {
+        "title": "Bogart: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/punishercapcom-fgtsze_suits_bogart_fgtstance.png"
+      },
+      {
+        "title": "Bruno Costa: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/punishercapcom-fgtsze_suits_brunocosta_fgtstance.png"
+      },
+      {
+        "title": "Byron Hannigan: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/punishercapcom-fgtsze_suits_byronhannigan_fgtstance.png"
+      },
+      {
+        "title": "Leon Kolsky: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/punishercapcom-fgtsze_suits_leonkolsky_fgtstance.png"
+      },
+      {
+        "title": "Luis Allegre: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/punishercapcom-fgtsze_suits_luisallegre_fgtstance.png"
+      },
+      {
+        "title": "Matt Skinner: 2022",
+        "src": "http://scrollboss.illmosis.net/comicedits/punishercapcom-fgtsze_suits_mattskinner_fgtstance.png"
+      },
+      {
+        "title": "Deadpool:  ",
+        "src": "http://scrollboss.illmosis.net/customsprite/c4ncel_marvel_deadpool.gif"
+      },
+      {
+        "title": "Spider-Man:  ",
+        "src": "http://scrollboss.illmosis.net/customsprite/c4ncel_marvel_spiderman.gif"
+      },
+      {
+        "title": "Venom:  ",
+        "src": "http://scrollboss.illmosis.net/customsprite/c4ncel_marvel_venom.gif"
+      },
+      {
+        "title": "Wolverine:  ",
+        "src": "http://scrollboss.illmosis.net/customsprite/c4ncel_marvel_zombiewolverine.gif"
+      },
+      {
+        "title": "Wolverine:  ",
+        "src": "http://scrollboss.illmosis.net/customsprite/c4ncel_marvel_wolverines.gif"
+      },
+      {
+        "title": "DC Comics gallery",
+        "src": "http://scrollboss.illmosis.net/gfx/200x100_customsprites_dccomics.png"
+      },
+      {
+        "title": "Marvel gallery",
+        "src": "http://scrollboss.illmosis.net/gfx/200x100_customsprites_marvelcomics.png"
+      },
+      {
+        "title": "Spawn gallery",
+        "src": "http://scrollboss.illmosis.net/gfx/200x100_customsprites_spawn.png"
+      },
+      {
+        "title": "Raven's Dojo gallery",
+        "src": "http://scrollboss.illmosis.net/gfx/200x100_customsprites_ravensdojo.png"
+      },
+      {
+        "title": "RAK Graphics",
+        "src": "http://scrollboss.illmosis.net/gfx/200x100_customsprites_rakgraphics.png"
+      },
+      {
+        "title": "TMNT gallery",
+        "src": "http://scrollboss.illmosis.net/gfx/200x100_customsprites_tmnt.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=ultron-fgtsze",
+    "urlname": "ultron",
+    "name": "Ultron",
+    "sprites": [
+      {
+        "title": "Ultron",
+        "src": "http://scrollboss.illmosis.net/comicedits/ultron-fgtsze_80s_normalsize_mu88gammill.png"
+      },
+      {
+        "title": "Ultron",
+        "src": "http://scrollboss.illmosis.net/comicedits/ultron-fgtsze_80s_mu88gammill.png"
+      },
+      {
+        "title": "Ultron",
+        "src": "http://scrollboss.illmosis.net/comicedits/ultron-fgtsze_80s_mu88gammill_headforward.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=whirlwind-fgtsze",
+    "urlname": "whirlwind",
+    "name": "Whirlwind",
+    "sprites": [
+      {
+        "title": "Whirlwind: 2020, Captain America and the Avengers stand pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/whirlwind-fgtsze_classicgreen_standcalm.png"
+      },
+      {
+        "title": "Whirlwind: 2020, Captain America and the Avengers stand pose",
+        "src": "http://scrollboss.illmosis.net/comicedits/whirlwind-fgtsze_classicgreen_standcalm-money-faceright.png"
+      },
+      {
+        "title": "Whirlwind",
+        "src": "http://scrollboss.illmosis.net/comicedits/whirlwind-capfgt_grn-bare_stand.png"
+      },
+      {
+        "title": "Whirlwind",
+        "src": "http://scrollboss.illmosis.net/comicedits/whirlwind-capfgt_grn-bare_stand-money.png"
+      }
+    ]
+  },
+  {
+    "url": "http://scrollboss.illmosis.net/customsprites.php?g=marvel&s=whitequeen-fgtsze",
+    "urlname": "whitequeen",
+    "name": "the White Queen",
+    "sprites": [
+      {
+        "title": "the White Queen: 2014, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/whitequeen-fgtsze_v1_pose1-capehold.png"
+      },
+      {
+        "title": "the White Queen: 2014, classic",
+        "src": "http://scrollboss.illmosis.net/comicedits/whitequeen-fgtsze_v1_pose1-handmenace.png"
+      }
+    ]
+  }
+]
